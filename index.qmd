@@ -26,13 +26,13 @@ main-photo: me.jpg
 :::
 
 ::: {.g-col-12 .g-col-sm-8}
-I am a DPhil (PhD) student in politics at the University of Oxford's Department of Politics and International Relations. My work, supervised by [Dr Katerina Tertytchnaya](https://katerinatertytchnaya.com/), focuses on politics in Central Asia.
+I am a DPhil (PhD) student in politics at the University of Oxford's [Department of Politics and International Relations](https://www.politics.ox.ac.uk/). My work, supervised by [Dr Katerina Tertytchnaya](https://katerinatertytchnaya.com/), focuses on politics in Central Asia.
 
-My doctoral work considers the issue of subnational delegation. Who do national elites share power with? How do they judge their subordinates' abilities? My thesis approaches this question through studying variation in the tenure of *akim*s (appointed governors and mayors) in Kazakhstan. I use computational techniques to create and code new, detailed, and large datasets on political elites' biographies and careers. I use this data to examine just how elites come to hold power, how they use it, and how their actions shape their political futures. This work is funded by a four-year Economic and Social Research Council studentship awarded by the Grand Union Doctoral Training Programme. 
+My doctoral work considers the issue of subnational delegation. Who do national elites share power with? How do they judge their subordinates' abilities? My thesis approaches this question through studying akims (appointed governors and mayors) in Kazakhstan. I use computational techniques to create and code new, detailed, and large datasets on political elites' biographies and careers. I use this data to examine just how elites come to hold power, how they use it, and how their actions shape their political futures. This work is funded by a four-year Economic and Social Research Council studentship awarded by the Grand Union Doctoral Training Programme. 
 
 I am currently a research assistant on Dr Katerina Tertytchnaya's ESRC funded project on [non-violent repression](https://www.nonviolent-repression.co.uk/). Previously, I worked as a research assistant on the UKRI/Horizon Europe-funded [AUTHLIB project](https://www.authlib.eu/), Professor Lenka Buštíková's work on illiberalism in Ukraine, and the [Oxford University Economic Recovery Project](https://recovery.smithschool.ox.ac.uk/tracking/) at the Smith School of Enterprise and the Environment.
 
-Outside of academia, I have experience providing open source methods and Russian-language consulting for research and analysis projects related to the former Soviet Union. Please [contact me](thomas.hazell@politics.ox.ac.uk) to discuss my availability.
+Outside of academia, I have experience providing open source methods and Russian-language consulting for research and analysis projects related to the former Soviet Union. Please [contact me](mailto:thomas.hazell@politics.ox.ac.uk) to discuss my availability.
 :::
 
 :::
