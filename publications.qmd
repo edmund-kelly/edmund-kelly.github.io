@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: ""
 published-title: 
 engine: knitr
 mainfont: serif
