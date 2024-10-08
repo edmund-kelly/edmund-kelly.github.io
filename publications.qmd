@@ -5,8 +5,6 @@ engine: knitr
 mainfont: serif
 ---
 
-<br>
-
 <font size="5"> Journal Articles</font>
 
 [Edmund Kelly]{.underline} and James Tilley (2024). "[Misconduct by voters' own representatives does not affect voters' generalized political trust](https://ora.ox.ac.uk/objects/uuid:290ff981-0790-4264-9170-dd0daaccac25/files/s8910jw57j)", *British Journal of Political Science* (forthcoming).
