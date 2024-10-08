@@ -1,6 +1,0 @@
----
-title: "Publications"
-published-title: 
-engine: knitr
-date: 2024-09-30
----

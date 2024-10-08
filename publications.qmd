@@ -1,0 +1,14 @@
+---
+title: "Publications"
+published-title: 
+engine: knitr
+date: 2024-08-10
+---
+
+**Journal articles**
+
+Edmund Kelly and James Tilley (2024). "[Misconduct by voters' own representatives does not affect voters' generalized political trust](https://ora.ox.ac.uk/objects/uuid:290ff981-0790-4264-9170-dd0daaccac25/files/s8910jw57j)", *British Journal of Political Science* (forthcoming).
+
+**Think tank reports**
+
+Leonardo Carella and Edmund Kelly (2023). "[Social values](https://ukandeu.ac.uk/wp-content/uploads/2023/11/UKICE-The-State-of-Public-Opinion-2023.pdf)". In: *The State of Public Opinion: 2023.* UK in a Changing Europe.
