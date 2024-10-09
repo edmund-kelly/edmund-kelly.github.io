@@ -1,0 +1,17 @@
+---
+title: ""
+published-title: 
+engine: knitr
+mainfont: serif
+---
+
+<font size="5"> Tutorials</font>
+
+- Introduction to the Practice of Politics (UG).
+
+<font size="5"> Seminars</font>
+
+- Statistical Methods for the Social Sciences (Graduate).
+- Political Analysis (UG).
+
+

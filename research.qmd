@@ -1,0 +1,66 @@
+---
+title: ""
+published-title: 
+engine: knitr
+mainfont: serif
+---
+
+<font size="5"> Journal Articles</font>
+
+[Edmund Kelly]{.underline} and James Tilley (2024). "Misconduct by voters' own representatives does not affect voters' generalized political trust", *British Journal of Political Science* (forthcoming). [[Draft]](https://ora.ox.ac.uk/objects/uuid:290ff981-0790-4264-9170-dd0daaccac25/files/s8910jw57j). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract1" aria-expanded="false" aria-controls="abstract1">
+  [Abstract].
+</a> 
+<br>
+<br>
+<div class="collapse" id="abstract1">
+  <div class="card card-body">
+  
+One reason given for declining levels of trust in politicians and institutions is the incidence of scandals involving voters’ representatives. Politicians implicated in scandals, especially financial scandals, typically see their constituents’ support for them decrease. It has been suggested that these specific negative judgements about a representative’s misconduct spill over into constituents’ diffuse political trust in the system as a whole. We argue that the 2009 Parliamentary expenses scandal in the United Kingdom is the strongest yet-studied test of these scandal spillover effects in a non-experimental context. Yet, using a multilevel analysis of survey and representative implication data, we find no evidence for these effects. This is despite voters being aware of their MP’s scandal implication and this awareness affecting voters’ support for their own MP. We conclude that voters’ judgements about their constituency representatives are unlikely to affect their diffuse political trust.
+  </div>
+</div>
+
+<br>
+
+<font size="5"> Working papers</font>
+
+[Edmund Kelly]{.underline}, James Tilley and Sven Oskarsson. "Revisiting the link between political trust and political participation" (revise and resubmit). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract4" aria-expanded="false" aria-controls="abstract4">
+  [Abstract].
+</a> 
+<br>
+<br>
+<div class="collapse" id="abstract4">
+  <div class="card card-body">
+  
+Political trust is typically seen as a cause of political participation and thus declining levels of trust in politicians and institutions are often blamed for political disengagement. By revisiting the formation of political trust, we argue that this blame may be misplaced. We show that the correlation between political trust and participation is largely explained by heritable predispositions which make some people simultaneously more likely to trust political authorities and to participate in politics. Using variance decomposition models and co-twin control designs with data from three twin studies from the United States, Sweden and Australia, we demonstrate that trust is moderately heritable and that previous estimates of the association between trust and participation are over-stated. This result is robust to multiple operationalizations and specifications. We conclude that political trust may be more of a stable disposition than previously thought, and, as such, may be less likely to affect political behaviour.
+  </div>
+  <br>
+</div>
+
+
+Abel Brodeur, Derek Mikola, Nikolai Cook et al. (inc. [Edmund Kelly]{.underline}). "Mass reproducibility and replicability: A new hope" (under review). [[Draft]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract2" aria-expanded="false" aria-controls="abstract2">
+  [Abstract].
+</a> 
+<br>
+<br>
+<div class="collapse" id="abstract2">
+  <div class="card card-body">
+  
+This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments. It reveals several patterns. First, we uncover a high rate of fully computationally reproducible results (over 85%). Second, excluding minor issues like missing packages or broken pathways, we uncover coding errors for about 25% of studies, with some studies containing multiple errors. Third, we test the robustness of the results to 5,511 re-analyses. We find a robustness reproducibility of about 70%. Robustness reproducibility rates are relatively higher for re-analyses that introduce new data and lower for re-analyses that change the sample or the definition of the dependent variable. Fourth, 52% of re-analysis effect size estimates are smaller than the original published estimates and the average statistical significance of a re-analysis is 77% of the original. Lastly, we rely on six teams of researchers working independently to answer eight additional research questions on the determinants of robustness reproducibility. Most teams find a negative relationship between replicators' experience and reproducibility, while finding no relationship between reproducibility and the provision of intermediate or even raw data combined with the necessary cleaning codes.
+  </div>
+  <br>
+</div>
+
+
+
+[Edmund Kelly]{.underline} and Qinya Feng. "Education and political trust". <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract3" aria-expanded="false" aria-controls="abstract3">
+  [Abstract].
+</a> 
+<br>
+<br>
+<div class="collapse" id="abstract3">
+  <div class="card card-body">
+  
+Educational attainment is positively associated with political trust in longstanding democracies, but the causal status of this relationship is unclear. We argue that this relationship is unlikely to be causal because it is confounded by the common family background of those who are more trusting and who select into further education. We then triangulate this with three designs. Using data from four twin studies, we first show that variation in educational attainment among identical twin pairs does not predict political trust and that the relationship between educational attainment and political trust is therefore eliminated when accounting for family background. We then investigate the sources of this confounding. We first demonstrate that the relationship between attending educational attainment and political trust is attenuated when matching respondents based on their early life conditions using cohort data from the United Kingdom. We then show that there is little attenuation in the relationship between educational attainment and political trust when controlling for polygenic indices of educational attainment, suggesting that the majority of the confounding is environmental in origin. In sum, those predisposed to be trusting are also predisposed to select into further education, and therefore the association between educational attainment and political trust is unlikely to be causal in nature.
+  </div>
+  <br>
+</div>
