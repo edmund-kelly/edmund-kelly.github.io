@@ -28,7 +28,7 @@ Thank you for visiting! I am a PhD student in the [Department of Politics and In
 
 I study how much people trust politicians and political authorities, how and why that changes, and the consequences of (low) political trust. I also have an interest in replication and meta-science. 
 
-My research (with [James Tilley](https://www.politics.ox.ac.uk/person/james-tilley)) on how scandals affect trust in politics is forthcoming in the *British Journal of Political Science.* You can find a summary of my publications and working papers in the [research](https://edmund-kelly.github.io/research.html) tab. 
+My research (with [James Tilley](https://www.politics.ox.ac.uk/person/james-tilley)) on how scandals affect trust in politics is forthcoming in the *British Journal of Political Science.* You can find a summary of my publications and working papers on the [research](https://edmund-kelly.github.io/research.html) page. 
 
 You can find me on [Google Scholar](https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en) and [Twitter](https://x.com/edmundbkelly), or by emailing: edmund.kelly [at] politics.ox.ac.uk.
 :::
