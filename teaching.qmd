@@ -5,13 +5,10 @@ engine: knitr
 mainfont: serif
 ---
 
-<font size="5"> Tutorials</font>
+<font size="5"> Graduate</font>
 
-- Introduction to the Practice of Politics (UG).
+-   Statistical Methods for the Social Sciences.
 
-<font size="5"> Seminars</font>
+<font size="5"> Undergraduate</font>
 
-- Statistical Methods for the Social Sciences (Graduate).
-- Political Analysis (UG).
-
-
+-   Introduction to the Practice of Politics.

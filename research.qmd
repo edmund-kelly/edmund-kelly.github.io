@@ -7,7 +7,7 @@ mainfont: serif
 
 <font size="5"> Journal articles</font>
 
-[Edmund Kelly]{.underline} and James Tilley (2024). "Misconduct by voters' own representatives does not affect voters' generalized political trust", *British Journal of Political Science* (forthcoming). [\[Draft\]](#0). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract1" aria-expanded="false" aria-controls="abstract1"> \[Abstract\]. </a> <br> <br>
+[Edmund Kelly]{.underline} and James Tilley (2024). "Misconduct by voters' own representatives does not affect voters' generalized political trust", *British Journal of Political Science* (forthcoming). [\[Draft\]](https://ora.ox.ac.uk/objects/uuid:290ff981-0790-4264-9170-dd0daaccac25/files/s8910jw57j). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract1" aria-expanded="false" aria-controls="abstract1"> \[Abstract\]. </a> <br> <br>
 
 ::: {#abstract1 .collapse}
 ::: {.card .card-body}
