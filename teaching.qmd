@@ -11,5 +11,5 @@ mainfont: serif
 
 <font size="5"> Undergraduate</font>
 
--   Political Analysis (Q-Step)
+-   Political Analysis (Q-Step).
 -   Introduction to the Practice of Politics.
