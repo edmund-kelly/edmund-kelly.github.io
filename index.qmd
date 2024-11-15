@@ -13,8 +13,7 @@ mainfont: serif
   <div class="g-col-3 g-col-sm-5">
     <picture>
       <source srcset="{{< meta main-photo >}}">
-      <img class="circular_image" src="{{< meta main-photo >}}" alt="An image of me, sat outside a restaurant">
-      <figcaption><br>Photo credit: Fisher Studios. </figcaption>
+      <img class="circular_image" src="{{< meta main-photo >}}" alt="An image of me, sat outside a restaurant"> </figcaption>
     </picture>
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
