@@ -4,20 +4,24 @@ main-photo: Profile.png
 mainfont: serif
 ---
 
+::: grid
 ::::: grid
 ::: {.g-col-12 .g-col-sm-4}
 <!--quarto publish gh-pages -->
 
+```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
   <div class="g-col-3 g-col-sm-5">
     <picture>
       <source srcset="{{< meta main-photo >}}">
-      <img class="circular_image" src="{{< meta main-photo >}}" alt="An image of me"> </figcaption>
+      <img class="circular_image" src="{{< meta main-photo >}}" alt="An image of me.">
+      <figcaption><br> </figcaption>
     </picture>
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
 </div>
+```
 :::
 
 ::: {.g-col-12 .g-col-sm-8}
@@ -27,8 +31,8 @@ I study how much people trust politicians and political authorities, how and why
 
 My research (with [James Tilley](https://www.politics.ox.ac.uk/person/james-tilley)) on how scandals affect trust in politics is forthcoming in the *British Journal of Political Science.*
 
-On this website you can find further information about my [publications and working papers](https://edmund.kelly.github.io/research). 
+On this website you can find further information about my [publications and working papers](https://edmund.kelly.github.io/research).
 
 You can find me on [Google Scholar](https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en) and [Twitter](https://x.com/edmundbkelly), or by emailing: edmund.kelly \[at\] politics.ox.ac.uk.
 :::
-:::::
+:::::::::
