@@ -7,9 +7,9 @@ mainfont: serif
 
 <font size="5"> Graduate</font>
 
--   Statistical Methods for the Social Sciences.
+-   Statistical Methods for the Social Sciences (TA).
 
 <font size="5"> Undergraduate</font>
 
--   Political Analysis (Q-Step).
 -   Introduction to the Practice of Politics.
+-   Political Analysis (TA).

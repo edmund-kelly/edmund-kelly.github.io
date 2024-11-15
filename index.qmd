@@ -4,11 +4,10 @@ main-photo: Profile.png
 mainfont: serif
 ---
 
-::: grid
+::::: grid
 ::: {.g-col-12 .g-col-sm-4}
 <!--quarto publish gh-pages -->
 
-```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
   <div class="g-col-3 g-col-sm-5">
@@ -20,18 +19,17 @@ mainfont: serif
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
 </div>
-```
 :::
 
 ::: {.g-col-12 .g-col-sm-8}
 Thank you for visiting! I am a PhD student in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/person/edmund-kelly) at the University of Oxford. My research is funded by the Economic and Social Research Council.
 
-I study how much people trust politicians and political authorities, how and why that changes, and the consequences of (low) political trust. I also have an interest in replication and meta-science. 
+I study how much people trust politicians and political authorities, how and why that changes, and the consequences of (low) political trust. I also have an interest in replication and meta-science.
 
-My research (with [James Tilley](https://www.politics.ox.ac.uk/person/james-tilley)) on how scandals affect trust in politics is forthcoming in the *British Journal of Political Science.* I summarise my publications and working papers [here](https://edmund-kelly.github.io/research.html).
+My research (with [James Tilley](https://www.politics.ox.ac.uk/person/james-tilley)) on how scandals affect trust in politics is forthcoming in the *British Journal of Political Science.*
 
-I also teach for some politics and statistics courses, which I list [here](https://edmund-kelly.github.io/teaching.html). 
+On this website you can find further information about my [publications and working papers](https://edmund.kelly.github.io/research). 
 
-You can find me on [Google Scholar](https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en) and [Twitter](https://x.com/edmundbkelly), or by emailing: edmund.kelly [at] politics.ox.ac.uk.
+You can find me on [Google Scholar](https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en) and [Twitter](https://x.com/edmundbkelly), or by emailing: edmund.kelly \[at\] politics.ox.ac.uk.
 :::
-:::
+:::::
