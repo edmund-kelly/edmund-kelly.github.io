@@ -5,9 +5,7 @@ mainfont: serif
 ---
 
 ::: grid
-::::: grid
 ::: {.g-col-12 .g-col-sm-4}
-<!--quarto publish gh-pages -->
 
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
