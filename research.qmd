@@ -39,7 +39,7 @@ This study pushes our understanding of research reliability by reproducing and r
 <br>
 :::
 
-[Edmund Kelly]{.underline} and Qinya Feng. "Educational attainment and political trust". <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract3" aria-expanded="false" aria-controls="abstract3"> \[Abstract\]. </a> <br> <br>
+[Edmund Kelly]{.underline} and Qinya Feng. "Educational attainment and political trust" (under review). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract3" aria-expanded="false" aria-controls="abstract3"> \[Abstract\]. </a> <br> <br>
 
 ::: {#abstract3 .collapse}
 ::: {.card .card-body}
