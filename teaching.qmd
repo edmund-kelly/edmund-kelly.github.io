@@ -11,5 +11,6 @@ mainfont: serif
 
 <font size="5"> Undergraduate</font>
 
--   Introduction to the Practice of Politics.
+-   Political Sociology (Tutor).
+-   Introduction to the Practice of Politics (Tutor).
 -   Political Analysis (TA).
