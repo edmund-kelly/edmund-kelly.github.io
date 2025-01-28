@@ -17,4 +17,6 @@
 .circular_image img{
   width:100%;
 }
-
+.page-title {
+    display: none !important;
+}
