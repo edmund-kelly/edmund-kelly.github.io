@@ -1,6 +1,5 @@
 ---
 title: "Research"
-published-title: "Research"
 title-block: none
 engine: knitr
 mainfont: serif
