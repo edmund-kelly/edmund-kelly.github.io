@@ -7,10 +7,10 @@ mainfont: serif
 
 <font size="5"> Graduate</font>
 
--   Statistical Methods for the Social Sciences (Seminars).
+-   Statistical Methods for the Social Sciences (workshops).
 
-<font size="5"> Undergraduate</font>
+<font size="5"> Undergraduate </font>
 
--   Political Sociology (Tutorials).
--   Introduction to Politics (Tutorials).
--   Political Analysis (Seminars).
+-   Comparative Government (tutorials).
+-   Introduction to Politics (tutorials).
+-   Political Analysis (workshops).
