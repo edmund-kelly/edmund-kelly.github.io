@@ -48,7 +48,7 @@ Educational attainment is positively associated with political trust in longstan
 <br>
 ::::
 
-Abel Brodeur, David Valenta, Alexandru Marcoci et al. (inc. [Edmund Kelly]{.underline}). "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science" (under review). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](https://econpapers.repec.org/paper/zbwi4rdps/195.htm). <br> <br>d
+Abel Brodeur, David Valenta, Alexandru Marcoci et al. (inc. [Edmund Kelly]{.underline}). "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science" (under review). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](https://econpapers.repec.org/paper/zbwi4rdps/195.htm). <br> <br>
 
 :::: {#abstract5 .collapse}
 ::: {.card .card-body}
