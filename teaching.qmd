@@ -7,10 +7,10 @@ mainfont: serif
 
 <font size="5"> Graduate</font>
 
--   Statistical Methods for the Social Sciences (TA).
+-   Statistical Methods for the Social Sciences (Seminars).
 
 <font size="5"> Undergraduate</font>
 
--   Political Sociology (Tutor).
--   Introduction to the Practice of Politics (Tutor).
--   Political Analysis (TA).
+-   Political Sociology (Tutorials).
+-   Introduction to Politics (Tutorials).
+-   Political Analysis (Seminars).

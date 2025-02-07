@@ -18,7 +18,7 @@ One reason given for declining levels of trust in politicians and institutions i
 
 <font size="5"> Working papers</font>
 
-[Edmund Kelly]{.underline}, James Tilley and Sven Oskarsson. "Revisiting the link between political trust and political participation" (revise and resubmit). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract4" aria-expanded="false" aria-controls="abstract4"> \[Abstract\]. </a> <br> <br>
+[Edmund Kelly]{.underline}, James Tilley and Sven Oskarsson. "Revisiting the link between political trust and political participation" (conditionally accepted). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract4" aria-expanded="false" aria-controls="abstract4"> \[Abstract\]. </a> <br> <br>
 
 :::: {#abstract4 .collapse}
 ::: {.card .card-body}
