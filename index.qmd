@@ -25,7 +25,7 @@ mainfont: serif
 ::: {.g-col-12 .g-col-sm-8}
 Thank you for visiting! I am a PhD student in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/person/edmund-kelly) at the University of Oxford. My research is funded by the Economic and Social Research Council.
 
-My research broadly concerns how people form political attitudes and how these attitudes affect their political behaviour. Within this, I am currently focusing on two main themes:
+My research broadly concerns how people form political attitudes and how these attitudes affect their political behaviour. Within this, I am currently focused on two main themes:
 
 1. (dis)trust in politicians and political institutions
 2. research reproducibility and meta-science. 
