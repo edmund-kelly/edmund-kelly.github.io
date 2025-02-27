@@ -13,6 +13,8 @@ website:
         text: Working papers
       - href: teaching.qmd
         text: Teaching
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
