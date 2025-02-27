@@ -7,8 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Research.qmd
-        text: Research
+      - href: Publications.qmd
+        text: Publications
+      - href: Working papers.qmd
+        text: Working papers
       - href: teaching.qmd
         text: Teaching
 

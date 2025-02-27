@@ -1,0 +1,19 @@
+---
+title: ""
+engine: knitr
+mainfont: serif
+---
+
+<font size="5"> Refereed journal articles</font>
+
+"Misconduct by voters' own representatives does not affect voters' generalized political trust" (with James Tilley), *British Journal of Political Science* 54:4 (2024)*,* 1496-1505. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract1" aria-expanded="false" aria-controls="abstract1"> \[Abstract\].</a> [\[Paper\]](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust/DE5F4F1F042DF959F6E212E22F9874BE). [\[Data\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MJDFG8).<br> <br>
+
+:::: {#abstract1 .collapse}
+::: {.card .card-body}
+One reason given for declining levels of trust in politicians and institutions is the incidence of scandals involving voters’ representatives. Politicians implicated in scandals, especially financial scandals, typically see their constituents’ support for them decrease. It has been suggested that these specific negative judgements about a representative’s misconduct spill over into constituents’ diffuse political trust in the system as a whole. We argue that the 2009 Parliamentary expenses scandal in the United Kingdom is the strongest yet-studied test of these scandal spillover effects in a non-experimental context. Yet, using a multilevel analysis of survey and representative implication data, we find no evidence for these effects. This is despite voters being aware of their MP’s scandal implication and this awareness affecting voters’ support for their own MP. We conclude that voters’ judgements about their constituency representatives are unlikely to affect their diffuse political trust.
+:::
+::::
+
+<font size="5"> Think tank reports</font>
+
+"Social values" (with Leonardo Carella). In: *The state of public opinion: 2023.* UK in a Changing Europe. [\[Report\]](https://media.ukandeu.ac.uk/wp-content/uploads/2023/11/UKICE-The-State-of-Public-Opinion-2023.pdf). <br> <br>
