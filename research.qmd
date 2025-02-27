@@ -6,7 +6,7 @@ mainfont: serif
 
 <font size="5"> Journal articles</font>
 
-[Edmund Kelly]{.underline} and James Tilley (2024). "Misconduct by voters' own representatives does not affect voters' generalized political trust", *British Journal of Political Science* 54(4)*,* pp.1496-1505. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract1" aria-expanded="false" aria-controls="abstract1"> \[Abstract\].</a> [\[Paper\]](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust/DE5F4F1F042DF959F6E212E22F9874BE). [\[Data\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MJDFG8).<br> <br>
+"Misconduct by voters' own representatives does not affect voters' generalized political trust" (with James Tilley), *British Journal of Political Science* 54:4 (2024)*,* 1496-1505. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract1" aria-expanded="false" aria-controls="abstract1"> \[Abstract\].</a> [\[Paper\]](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust/DE5F4F1F042DF959F6E212E22F9874BE). [\[Data\]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MJDFG8).<br> <br>
 
 :::: {#abstract1 .collapse}
 ::: {.card .card-body}
@@ -18,7 +18,7 @@ One reason given for declining levels of trust in politicians and institutions i
 
 <font size="5"> Working papers</font>
 
-Revisiting the link between political trust and political participation (with James Tilley and Sven Oskarsson). *Conditionally accepted at The Journal of Politics.* <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract4" aria-expanded="false" aria-controls="abstract4"> \[Abstract\]. </a> <br> <br>
+"Revisiting the link between political trust and political participation" (with James Tilley and Sven Oskarsson), *conditionally accepted at The Journal of Politics.* <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract4" aria-expanded="false" aria-controls="abstract4"> \[Abstract\]. </a> <br> <br>
 
 :::: {#abstract4 .collapse}
 ::: {.card .card-body}
@@ -28,7 +28,7 @@ Political trust is typically seen as a cause of political participation and thus
 <br>
 ::::
 
-Educational attainment and political trust (with Qinya Feng). *Under review.* <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract3" aria-expanded="false" aria-controls="abstract3"> \[Abstract\]. </a> <br> <br>
+"Educational attainment and political trust" (with Qinya Feng), *under review.* <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract3" aria-expanded="false" aria-controls="abstract3"> \[Abstract\]. </a> <br> <br>
 
 ::: {#abstract3 .collapse}
 Educational attainment is positively associated with political trust in longstanding democracies, but the causal status of this relationship is unclear. We argue that this relationship is unlikely to be causal because it is confounded by the common family background of those who are more trusting and who select into further education. We then triangulate this with three designs. Using data from four twin studies, we first show that variation in educational attainment among identical twin pairs does not predict political trust and that the relationship between educational attainment and political trust is therefore eliminated when accounting for family background. We then investigate the sources of this confounding. We first demonstrate that the relationship between attending educational attainment and political trust is attenuated when matching respondents based on their early life conditions using cohort data from the United Kingdom. We then show that there is little attenuation in the relationship between educational attainment and political trust when controlling for polygenic indices of educational attainment, suggesting that the majority of the confounding is environmental in origin. In sum, those predisposed to be trusting are also predisposed to select into further education, and therefore the association between educational attainment and political trust is unlikely to be causal in nature.
@@ -36,7 +36,7 @@ Educational attainment is positively associated with political trust in longstan
 <br>
 :::
 
-Mass reproducibility and replicability: A new hope (with Abel Brodeur et al.). *I4R Discussion Paper Series,* No. 107. *Under review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract2" aria-expanded="false" aria-controls="abstract2"> \[Abstract\].</a> [\[Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780).<br> <br>
+"Mass reproducibility and replicability: A new hope" (with Abel Brodeur et al.). *I4R Discussion Paper Series,* 107, *under review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract2" aria-expanded="false" aria-controls="abstract2"> \[Abstract\].</a> [\[Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780).<br> <br>
 
 :::: {#abstract2 .collapse}
 ::: {.card .card-body}
@@ -46,7 +46,7 @@ This study pushes our understanding of research reliability by reproducing and r
 <br>
 ::::
 
-Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science (with Abel Brodeur et al.). *I4R Discussion Paper Series,* No. 195. *Under review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](https://econpapers.repec.org/paper/zbwi4rdps/195.htm). <br> <br>
+"Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science" (with Abel Brodeur et al.). *I4R Discussion Paper Series,* 195*, under* *review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](#0). <br> <br>
 
 :::: {#abstract5 .collapse}
 ::: {.card .card-body}
