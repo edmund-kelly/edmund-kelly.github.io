@@ -16,6 +16,10 @@ One reason given for declining levels of trust in politicians and institutions i
 
 <br>
 
+<font size="5"> Think tank reports</font>
+
+"Social values" (with Leonardo Carella). In: *The state of public opinion: 2023.* UK in a Changing Europe. [\[Paper\]](https://media.ukandeu.ac.uk/wp-content/uploads/2023/11/UKICE-The-State-of-Public-Opinion-2023.pdf). <br> <br>
+
 <font size="5"> Working papers</font>
 
 "Revisiting the link between political trust and political participation" (with James Tilley and Sven Oskarsson), *conditionally accepted at The Journal of Politics.* <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract4" aria-expanded="false" aria-controls="abstract4"> \[Abstract\]. </a> <br> <br>
@@ -36,7 +40,7 @@ Educational attainment is positively associated with political trust in longstan
 <br>
 :::
 
-"Mass reproducibility and replicability: A new hope" (with Abel Brodeur et al.), *under review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract2" aria-expanded="false" aria-controls="abstract2"> \[Abstract\].</a> [\[Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#citation2" aria-expanded="false" aria-controls="citation2"> \[Citation\].</a> <br> <br>
+"Mass reproducibility and replicability: A new hope" (with Abel Brodeur et al.), *I4R Discussion Papers,* 107, *under review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract2" aria-expanded="false" aria-controls="abstract2"> \[Abstract\].</a> [\[Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780). <br> <br>
 
 :::: {#abstract2 .collapse}
 ::: {.card .card-body}
@@ -46,7 +50,7 @@ This study pushes our understanding of research reliability by reproducing and r
 <br>
 ::::
 
-"Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science" (with Abel Brodeur et al.), *under* *review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](#0). <br> <br>
+"Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science" (with Abel Brodeur et al.), *I4R Discussion Papers,* 195, *under* *review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](#0). <br> <br>
 
 :::: {#abstract5 .collapse}
 ::: {.card .card-body}
