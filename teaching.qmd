@@ -7,10 +7,10 @@ mainfont: serif
 
 <font size="5"> Graduate</font>
 
--   Statistical Methods for the Social Sciences (workshops).
+-   Statistical Methods for the Social Sciences (TA).
 
 <font size="5"> Undergraduate </font>
 
--   Comparative Government (tutorials).
--   Introduction to Politics (tutorials).
--   Political Analysis (workshops).
+-   Comparative Government (tutor).
+-   Introduction to Politics (tutor).
+-   Political Analysis (TA).
