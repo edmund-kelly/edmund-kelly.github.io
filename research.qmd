@@ -36,7 +36,7 @@ Educational attainment is positively associated with political trust in longstan
 <br>
 :::
 
-"Mass reproducibility and replicability: A new hope" (with Abel Brodeur et al.). *I4R Discussion Paper Series,* 107, *under review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract2" aria-expanded="false" aria-controls="abstract2"> \[Abstract\].</a> [\[Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780).<br> <br>
+"Mass reproducibility and replicability: A new hope" (with Abel Brodeur et al.), *under review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract2" aria-expanded="false" aria-controls="abstract2"> \[Abstract\].</a> [\[Paper\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780). <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#citation2" aria-expanded="false" aria-controls="citation2"> \[Citation\].</a> <br> <br>
 
 :::: {#abstract2 .collapse}
 ::: {.card .card-body}
@@ -46,7 +46,7 @@ This study pushes our understanding of research reliability by reproducing and r
 <br>
 ::::
 
-"Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science" (with Abel Brodeur et al.). *I4R Discussion Paper Series,* 195*, under* *review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](#0). <br> <br>
+"Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science" (with Abel Brodeur et al.), *under* *review*. <a style="color: #2780e3; text-decoration: underline; cursor: pointer;" data-bs-toggle="collapse" data-bs-target="#abstract5" aria-expanded="false" aria-controls="abstract5"> \[Abstract\].</a> [\[Paper\]](#0). <br> <br>
 
 :::: {#abstract5 .collapse}
 ::: {.card .card-body}
