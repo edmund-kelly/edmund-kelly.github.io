@@ -4,9 +4,8 @@ main-photo: Profile.png
 mainfont: serif
 ---
 
-::: grid
+::::: grid
 ::: {.g-col-12 .g-col-sm-4}
-
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
@@ -23,17 +22,17 @@ mainfont: serif
 :::
 
 ::: {.g-col-12 .g-col-sm-8}
-Thank you for visiting! I am a PhD student in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/person/edmund-kelly) at the University of Oxford. My research is funded by the Economic and Social Research Council.
+Thank you for visiting! I am a PhD student in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/person/edmund-kelly) at the University of Oxford.
 
-My research broadly concerns how people form political attitudes and how these attitudes affect their political behaviour. Within this, I am currently focused on two main themes:
+My research broadly concerns how people form political attitudes and how these attitudes affect their political behaviour. Within this, my current work focuses on two main themes:
 
-1. (dis)trust in politicians and political institutions
-2. research reproducibility and meta-science. 
+1.  (dis)trust in politicians and political institutions
+2.  research reproducibility and meta-science.
 
-My work has been published in the *British Journal of Political Science*.
+My research has been published in the *British Journal of Political Science*.
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en), [Bluesky](https://bsky.app/profile/edmundkelly.bsky.social) and [Twitter](https://x.com/edmundbkelly). 
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en), [Github](https://github.com/edmund-kelly), [Bluesky](https://bsky.app/profile/edmundkelly.bsky.social) and [Twitter](https://x.com/edmundbkelly).
 
 I can best be contacted by emailing: edmund.kelly \[at\] politics.ox.ac.uk.
 :::
-:::::::::
+:::::
