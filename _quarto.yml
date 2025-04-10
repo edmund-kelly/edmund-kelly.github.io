@@ -3,24 +3,14 @@ project:
 
 website:
   title: "Edmund Kelly"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: Publications.qmd
-        text: Publications
-      - href: Working papers.qmd
-        text: Working papers
-      - href: teaching.qmd
-        text: Teaching
-      - href: CV.qmd
-        text: CV
+  navbar: false
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    search: false
 
 editor: visual
 

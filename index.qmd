@@ -1,11 +1,38 @@
 ---
 title: ""
 main-photo: Profile.png
-mainfont: serif
+mainfont: serif  
+fontsize: 10pt
+page-layout: full
+cv:
+  pdf: "Kelly_CV.pdf"
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+<div style="max-width: 900px; margin: 0 auto;">
+  <style>
+    a {
+      color: #2c7a2c;
+      text-decoration: none;
+    }
 
+    a:hover {
+      text-decoration: underline; /* Optional: keeps hover effect */
+    }
+
+    /* Set font weight to 200 for all text */
+    body, p, li, h1, h2, h3, h4, h5, h6 {
+      font-weight: 0;
+    }
+    
+  </style>
+  
+  <br>
+  <br>
+  
 ::::: grid
-::: {.g-col-12 .g-col-sm-4}
+::: {.g-col-12 .g-col-sm-5}
+<font size="5">&nbsp;&nbsp;&nbsp;&nbsp; Edmund Kelly</font>
+<br>
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
@@ -19,20 +46,71 @@ mainfont: serif
   <div class="g-col-1 g-col-sm-0"></div>
 </div>
 ```
+
+<div style="line-height: 1.5;">
+  PhD student<br>
+  Department of Politics and International Relations<br>
+  University of Oxford<br>
+  edmund.kelly[at]politics.ox.ac.uk
+  <br>
+  <br>
+  <a href="https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en" target="_blank">
+    <i class="fab fa-google-scholar" style="font-size: 20px;"></i> 
+  </a>
+  &nbsp; <!-- space between icons -->
+  <a href="https://bsky.app/profile/edmundkelly.bsky.social" target="_blank">
+    <i class="fab fa-bluesky" style="font-size: 20px;"></i> 
+  </a>
+  &nbsp; <!-- space between icons -->
+  <a href="mailto:edmund.kelly@politics.ox.ac.uk" target="_blank">
+    <i class="fa fa-envelope" style="font-size: 20px;"></i> 
+  </a>
+  &nbsp;
+  <a class="cv-download" href="Kelly_CV.pdf" download="Kelly_CV" target="_blank" style="vertical-align: top;">
+    CV
+  </a>
+</div>
+
+
+
+
+
 :::
 
-::: {.g-col-12 .g-col-sm-8}
-Thank you for visiting! I am a PhD student in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/person/edmund-kelly) at the University of Oxford.
+::: {.g-col-12 .g-col-sm-7}
+Thank you for visiting! I am a PhD student in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/person/edmund-kelly) at the University of Oxford. I study public opinion and political behaviour in democracies, with a focus on political trust and research reproducibility. I work primarily with causal inference methods using longitudinal and family data. 
 
-My research broadly concerns how people form political attitudes and how these attitudes affect their political behaviour. Within this, my current work focuses on two main themes:
+<font size="4">Publications</font>
 
-1.  (dis)trust in politicians and political institutions
-2.  research reproducibility and meta-science.
+<ol reversed>
+    <li>
+    Revisiting the link between political trust and political participation (with James Tilley and Sven Oskarsson), <i>The Journal of Politics</i> (forthcoming). 
+  </li>
+  <br>
+  <li>
+    <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust/DE5F4F1F042DF959F6E212E22F9874BE">Misconduct by voters' own representatives does not affect voters' generalized political trust</a>  (with James Tilley), 
+    <i>British Journal of Political Science</i> 54:4 (2024), 1496-1505.
+  </li>
+  
+  
+</ol>
 
-My research has been published in the *British Journal of Political Science*.
+<font size="4">Working papers</font>
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=oi6BV7sAAAAJ&hl=en), [Github](https://github.com/edmund-kelly), [Bluesky](https://bsky.app/profile/edmundkelly.bsky.social) and [Twitter](https://x.com/edmundbkelly).
+<ul>
+    <li>
+    <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text">Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science</a>  (with Abel Brodeur et al.), R&R, <i>Nature</i>. 
+  </li>
+  <br>
+  <li>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780">Mass reproducibility and replicability: A new hope</a>  (with Abel Brodeur et al.). 
+  </li>
+  <br>
+    <li>
+    Educational attainment and political trust (with Qinya Feng).  
+  </li>
+  
+</ul>
 
-I can best be contacted by emailing: edmund.kelly \[at\] politics.ox.ac.uk.
-:::
-:::::
+
+
