@@ -7,6 +7,12 @@ page-layout: full
 cv:
   pdf: "Kelly_CV.pdf"
 ---
+<style>
+  body {
+    font-size: 10pt;
+  }
+</style>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 <div style="max-width: 900px; margin: 0 auto;">
   <style>
