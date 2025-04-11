@@ -42,7 +42,7 @@ cv:
 
 :::::: grid
 :::: {.g-col-12 .g-col-sm-5}
-<font size="5">     Edmund Kelly</font> <br>
+<font size="5.5">Edmund Kelly</font> <br>
 
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
