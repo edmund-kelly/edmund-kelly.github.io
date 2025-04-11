@@ -42,11 +42,11 @@ cv:
 
 :::::: grid
 :::: {.g-col-12 .g-col-sm-5}
-<font size="5.5">Edmund Kelly</font> <br>
 
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
+  <font size="5" style="white-space: nowrap;margin-left: -2.5rem;margin-bottom: 0.5rem;">Edmund Kelly</font>
   <div class="g-col-3 g-col-sm-5">
     <picture>
       <source srcset="{{< meta main-photo >}}">
