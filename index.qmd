@@ -83,7 +83,7 @@ Thank you for visiting! I am a PhD student in the [Department of Politics and In
 <br>
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780">Mass reproducibility and replicability: A new hope</a> (with Abel Brodeur et al.).</li>
 <br>
-<li></a> <a class="cv-download" href="EducTrust.pdf" download="EducTrust" target="_blank" style="vertical-align: top;"> Educational attainment and political trust</a> (with Qinya Feng). 
+<li></a> <a class="cv-download" href="EducTrust.pdf" target="_blank" style="vertical-align: top;"> Educational attainment and political trust</a> (with Qinya Feng). 
 </li>
 
 </ul>
