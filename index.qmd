@@ -88,7 +88,9 @@ Thank you for visiting! I am a PhD student in the [Department of Politics and In
 <br>
 <li></a> <a class="cv-download" href="PolarizationTrust.pdf" target="_blank" style="vertical-align: top;"> Mass polarization reduces political trust</a>. 
 </li>
-
+<br>
+<li></a> <a class="cv-download" href="PersonalityTrust.pdf" target="_blank" style="vertical-align: top;"> Personality traits do not cause political trust: Evidence from twin and cohort data</a>. 
+</li>
 </ul>
 :::
 ::::::
