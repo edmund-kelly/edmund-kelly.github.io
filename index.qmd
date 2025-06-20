@@ -69,9 +69,9 @@ Thank you for visiting! I am a PhD student in the [Department of Politics and In
 
 <ol reversed>
 
-<li><a href= "https://www.journals.uchicago.edu/doi/10.1086/736338">Revisiting the link between political trust and political participation</a>  (with James Tilley and Sven Oskarsson), <i>Journal of Politics</i>, forthcoming.</li>
+<li><a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank">Revisiting the link between political trust and political participation</a> (with James Tilley and Sven Oskarsson), <i>Journal of Politics</i>, forthcoming.</li>
 <br>
-<li><a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust/DE5F4F1F042DF959F6E212E22F9874BE">Misconduct by voters' own representatives does not affect voters' generalized political trust</a> (with James Tilley), <i>British Journal of Political Science</i> 54:4 (2024), 1496-1505.</li>
+<li><a href="misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust.pdf" target = "_blank">Misconduct by voters' own representatives does not affect voters' generalized political trust</a> (with James Tilley), <i>British Journal of Political Science</i> 54:4 (2024), 1496-1505.</li>
 
 </ol>
 
@@ -86,10 +86,10 @@ Thank you for visiting! I am a PhD student in the [Department of Politics and In
 <li></a> <a class="cv-download" href="EducTrust.pdf" target="_blank" style="vertical-align: top;"> Educational attainment and political trust</a> (with Qinya Feng). 
 </li>
 <br>
-<li></a> <a class="cv-download" href="PolarizationTrust.pdf" target="_blank" style="vertical-align: top;"> Mass polarization reduces political trust</a>. 
+<li></a> <a class="cv-download" href="PersonalityTrust.pdf" target="_blank" style="vertical-align: top;"> Personality traits do not cause political trust: Evidence from twin and cohort data</a>. 
 </li>
 <br>
-<li></a> <a class="cv-download" href="PersonalityTrust.pdf" target="_blank" style="vertical-align: top;"> Personality traits do not cause political trust: Evidence from twin and cohort data</a>. 
+<li></a> <a class="cv-download" href="PolarizationTrust.pdf" target="_blank" style="vertical-align: top;"> Mass polarization reduces political trust</a>. 
 </li>
 </ul>
 :::
