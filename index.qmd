@@ -14,11 +14,12 @@ cv:
     font-size: 10pt;
   }
 </style>
+
 ```
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-::::::: {style="max-width: 900px; margin: 0 auto;"}
+::::::: {style="max-width: 800px; margin: 0 auto;"}
 ```{=html}
 <style>
     a {
@@ -27,12 +28,9 @@ cv:
     }
 
     a:hover {
-      text-decoration: underline; /* Optional: keeps hover effect */
+      text-decoration: underline; 
     }
 
-    /* Set font weight to 200 for all text */
-    body, p, li, h1, h2, h3, h4, h5, h6 {
-      font-weight: 0;
     }
     
   </style>
@@ -41,7 +39,7 @@ cv:
 <br> <br>
 
 :::::: grid
-:::: {.g-col-12 .g-col-sm-5}
+:::: {.g-col-12 .g-col-sm-4}
 <font size="5">Edmund Kelly</font>
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
@@ -62,7 +60,7 @@ PhD student<br> Department of Politics and International Relations<br> Universit
 :::
 ::::
 
-::: {.g-col-12 .g-col-sm-7}
+::: {.g-col-12 .g-col-sm-8}
 Thank you for visiting! I am a PhD student in the [Department of Politics and International Relations](https://www.politics.ox.ac.uk/person/edmund-kelly) at the University of Oxford. I study public opinion and political behaviour in democracies, with a focus on political trust and research reproducibility. I work in particular with causal inference methods using longitudinal and family data.
 
 <font size="4">Publications</font>
