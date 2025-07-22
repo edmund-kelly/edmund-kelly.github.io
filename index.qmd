@@ -79,18 +79,19 @@ Thank you for visiting! I am a PhD student in the [Department of Politics and In
 
 <ul>
 
-<li><a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text">Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science</a> (with Abel Brodeur et al.), R&R, <i>Nature</i>.</li>
-<br>
 <li></a> <a class="cv-download" href="EducTrust.pdf" target="_blank" style="vertical-align: top;"> Educational attainment and political trust</a> (with Qinya Feng), R&R, <i>American Journal of Political Science</i>. 
 </li>
-<br>
-<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780">Mass reproducibility and replicability: A new hope</a> (with Abel Brodeur et al.).</li>
 <br>
 <li></a> <a class="cv-download" href="PersonalityTrust.pdf" target="_blank" style="vertical-align: top;"> Personality traits do not cause political trust: Evidence from twin and cohort data</a>. 
 </li>
 <br>
 <li></a> <a class="cv-download" href="PolarizationTrust.pdf" target="_blank" style="vertical-align: top;"> Mass polarization reduces political trust</a>. 
 </li>
+<br>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780">Mass reproducibility and replicability: A new hope</a> (with Abel Brodeur et al.).</li>
+</li>
+<br>
+<li><a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text">Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science</a> (with Abel Brodeur et al.).</li>
 </ul>
 :::
 ::::::
