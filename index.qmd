@@ -11,9 +11,9 @@ cv:
 ```{=html}
 <style>
   body {
-transform: scale(1.4);
+transform: scale(1.3);
   transform-origin: 0 0;               /* scale from the top-left */
-  width: calc(100% / 1.4);   
+  width: calc(100% / 1.3);   
   
   margin: 0;
   padding: 0;
