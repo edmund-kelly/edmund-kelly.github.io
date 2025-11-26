@@ -91,7 +91,8 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
   <p>
     Thank you for visiting! I am a PhD student in the 
     <a href="https://www.politics.ox.ac.uk/person/edmund-kelly">Department of Politics and International Relations</a> 
-    at the University of Oxford. I study public opinion and political behaviour in democracies, with a main focus on political trust. I am also interested in research reproducibility and AI use in the social sciences. I work primarily with longitudinal and family data.
+    at the University of Oxford. I study public opinion and political behaviour in democracies, with a focus on political trust. I do this primarily by analysing quantitative survey data from long-run panels and family/twin studies. I also engage in methodological research about the reproducibility of the social sciences. My work has been published in the <a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank"><i>Journal of Politics</i></a> and the <a href="misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust.pdf" target="_blank"><i>British Journal of Political Science</i></a>, and it has been mentioned in <a href="https://www.theguardian.com/commentisfree/2023/dec/05/brexit-leave-remain-tories-labour-voting-trends" target="_blank">
+        <i>The Guardian</i></a>. 
   </p>
   
   <h4>Publications</h4>
