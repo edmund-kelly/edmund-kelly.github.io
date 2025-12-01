@@ -132,6 +132,10 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
       (with Abel Brodeur et al.). R&R, <i>PNAS</i>.
     </li>
     <li>
+     <a class="cv-download" href="StrategicProblems.pdf" target="_blank">
+        Can artificial intelligence solve strategic decision problems?</a> (with Peter Eso, Eszter Kabos, and James Tilley)</a>.
+    </li>
+    <li>
       <a class="cv-download" href="PersonalityTrust.pdf" target="_blank">
         Personality traits do not cause political trust: Evidence from twin and cohort data</a>.
     </li>
@@ -139,9 +143,9 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
       <a class="cv-download" href="PolarizationTrust.pdf" target="_blank">
         Mass polarization reduces political trust</a>.
     </li>
-     <li>
-      <a class="cv-download" href="StrategicProblems.pdf" target="_blank">
-        Can artificial intelligence solve strategic decision problems?</a> (with Peter Eso, Eszter Kabos, and James Tilley)</a>.
+    <li>
+      <a class="cv-download" href="DemocracyTrust.pdf" target="_blank">
+        Political distrust and preferences for regime type</a>.
     </li>
   </ul>
 </div>
