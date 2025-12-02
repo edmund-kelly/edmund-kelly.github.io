@@ -117,7 +117,7 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
       <a class="cv-download" href="EducTrust.pdf" target="_blank">
         Educational attainment and political trust
       </a> 
-      (with Qinya Feng). R&R, <i>AJPS</i>.
+      (with Qinya Feng). Conditionally accepted, <i>American Journal of Political Science</i>.
     </li>
     <li>
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780">
