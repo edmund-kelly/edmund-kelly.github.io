@@ -11,9 +11,9 @@ cv:
 ```{=html}
 <style>
   body {
-transform: scale(1.1);
+transform: scale(1.0);
   transform-origin: 0 0;               /* scale from the top-left */
-  width: calc(100% / 1.1);   
+  width: calc(100% / 1.0);   
   
   margin: 0;
   padding: 0;
@@ -27,7 +27,6 @@ ul {
   list-style-type: circle; /* options: disc | circle | square | none */
 }
 </style>
-
 ```
 
 ```{=css}
@@ -40,12 +39,10 @@ ul {
   content: "– ";             /* En dash (–) or use "-" for hyphen */
   color: #000;               /* You can style the dash (color, size, etc.) */
 }
-
 ```
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-::::::: {style="max-width: 900px; margin: 0 auto;"}
+:::::::: {style="max-width: 900px; margin: 0 auto;"}
 ```{=html}
 <style>
     a {
@@ -64,9 +61,10 @@ ul {
 
 <br> <br>
 
-:::::: grid
+::::::: grid
 :::: {.g-col-12 .g-col-sm-4}
 <font size="5">Edmund Kelly</font>
+
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
@@ -86,70 +84,40 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
 :::
 ::::
 
-::: {.g-col-12 .g-col-sm-7}
-<div class="g-col-12 g-col-sm-7 justified" style="text-align: justify;">
-  <p>
-    Thank you for visiting! I am a PhD student in the 
-    <a href="https://www.politics.ox.ac.uk/person/edmund-kelly">Department of Politics and International Relations</a> 
-    at the University of Oxford. I study public opinion and political behaviour in democracies, with a focus on political trust. I do this primarily by analysing quantitative survey data from long-run panels and family/twin studies. I also engage in methodological research about the reproducibility of the social sciences. My work has been published in the <a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank"><i>Journal of Politics</i></a> and the <a href="misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust.pdf" target="_blank"><i>British Journal of Political Science</i></a>, and it has been mentioned in <a href="https://www.theguardian.com/commentisfree/2023/dec/05/brexit-leave-remain-tories-labour-voting-trends" target="_blank">
-        <i>The Guardian</i></a>. 
-  </p>
-  
-  <h4>Publications</h4>
-  <ol reversed>
-      <li>
-      <a class="cv-download" href="EducTrust.pdf" target="_blank">
-        Educational attainment and political trust
-      </a> 
-      (with Qinya Feng). Conditionally accepted at <i>American Journal of Political Science</i> (pending verification of replication files).
-    </li>
-    <li>
-      <a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank">
-        Revisiting the link between political trust and political participation
-      </a> 
-      (with James Tilley and Sven Oskarsson). <i>Journal of Politics</i> 88(3).
-    </li>
-    <li>
-      <a href="misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust.pdf" target="_blank">
-        Misconduct by voters' own representatives does not affect voters' generalized political trust
-      </a> 
-      (with James Tilley). <i>British Journal of Political Science</i> 54(4), 1496–1505.
-    </li>
-  </ol>
+:::: {.g-col-12 .g-col-sm-7}
+::: {.g-col-12 .g-col-sm-7 .justified style="text-align: justify;"}
+<p>Thank you for visiting! I am a PhD student in the <a href="https://www.politics.ox.ac.uk/person/edmund-kelly">Department of Politics and International Relations</a> at the University of Oxford. I study public opinion and political behaviour in democracies, with a focus on political trust. I do this primarily by analysing quantitative survey data from long-run panels and family/twin studies. I also engage in methodological research about the reproducibility of the social sciences. My work has been published in the <a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank"><i>Journal of Politics</i></a> and the <a href="misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust.pdf" target="_blank"><i>British Journal of Political Science</i></a>, and it has been mentioned in <a href="https://www.theguardian.com/commentisfree/2023/dec/05/brexit-leave-remain-tories-labour-voting-trends" target="_blank"> <i>The Guardian</i></a>.</p>
 
-  <h4>Working papers</h4>
-  <ul>
-    <li>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780">
-        The reproducibility and robustness of economics and political science
-      </a> 
-      (with Abel Brodeur et al.). R&R at <i>Nature</i>.
-    </li>
-    <li>
-      <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text">
-        Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science
-      </a> 
-      (with Abel Brodeur et al.). R&R at <i>PNAS</i>.
-    </li>
-    <li>
-     <a class="cv-download" href="StrategicProblems.pdf" target="_blank">
-        Can artificial intelligence solve strategic decision problems?</a> (with Peter Eso, Eszter Kabos, and James Tilley)</a>.
-    </li>
-    <li>
-      <a class="cv-download" href="PersonalityTrust.pdf" target="_blank">
-        Personality traits do not cause political trust: Evidence from twin and cohort data</a>.
-    </li>
-    <li>
-      <a class="cv-download" href="PolarizationTrust.pdf" target="_blank">
-        Mass polarization reduces political trust</a>.
-    </li>
-    <li>
-      <a class="cv-download" href="DemocracyTrust.pdf" target="_blank">
-        Political distrust and preferences for regime type</a>.
-    </li>
-  </ul>
-</div>
+<h4>Publications</h4>
 
+<ol reversed>
+
+<li><a class="cv-download" href="EducTrust.pdf" target="_blank"> Educational attainment and political trust </a> (with Qinya Feng). Conditionally accepted at <i>American Journal of Political Science</i> (pending verification of replication files).</li>
+
+<li><a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank"> Revisiting the link between political trust and political participation </a> (with James Tilley and Sven Oskarsson). <i>Journal of Politics</i> 88(3).</li>
+
+<li><a href="misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust.pdf" target="_blank"> Misconduct by voters' own representatives does not affect voters' generalized political trust </a> (with James Tilley). <i>British Journal of Political Science</i> 54(4), 1496–1505.</li>
+
+</ol>
+
+<h4>Working papers</h4>
+
+<ul>
+
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780"> The reproducibility and robustness of economics and political science </a> (with Abel Brodeur et al.). R&R at <i>Nature</i>.</li>
+
+<li><a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text"> Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science </a> (with Abel Brodeur et al.). R&R at <i>PNAS</i>.</li>
+
+<li><a class="cv-download" href="StrategicProblems.pdf" target="_blank"> Can artificial intelligence solve strategic decision problems?</a> (with Peter Eso, Eszter Kabos, and James Tilley)</a>.</li>
+
+<li><a class="cv-download" href="PersonalityTrust.pdf" target="_blank"> Personality traits do not cause political trust: Evidence from twin and cohort data</a>.</li>
+
+<li><a class="cv-download" href="PolarizationTrust.pdf" target="_blank"> Mass polarization reduces political trust</a>.</li>
+
+<li><a class="cv-download" href="DemocracyTrust.pdf" target="_blank"> Political distrust and preferences for regime type</a>.</li>
+
+</ul>
 :::
-::::::
+::::
 :::::::
+::::::::
