@@ -94,6 +94,8 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
 
 <li><a class="cv-download" href="EducTrust.pdf" target="_blank"> Educational attainment and political trust </a> (with Qinya Feng). American Journal of Political Science (conditionally accepted).</li>
 
+<li><a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text"> Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science </a> (with Abel Brodeur, David Valenta, Alexandru Marcoci, et al.). Proceedings of the National Academy of Sciences (forthcoming).</li>
+
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780"> Reproducibility and robustness of economics and political science research </a> (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.). Nature (forthcoming).</li>
 
 <li><a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank"> Revisiting the link between political trust and political participation </a> (with James Tilley and Sven Oskarsson). Journal of Politics 88(3).</li>
@@ -107,8 +109,6 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
 <ul>
 
 <li><a class="cv-download" href="PersonalityTrust.pdf" target="_blank"> Personality traits and political trust</a>. R&R, British Journal of Political Science</li>
-
-<li><a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text"> Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science </a> (with Abel Brodeur, David Valenta, Alexandru Marcoci, et al.). R&R, Proceedings of the National Academy of Sciences.</li>
 
 <li><a class="cv-download" href="StrategicProblems.pdf" target="_blank"> Can artificial intelligence solve strategic decision problems?</a> (with Peter Eso, Eszter Kabos, and James Tilley)</a>. Under review. </li>
 
