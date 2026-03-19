@@ -96,9 +96,9 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
 
 <li><a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf?trk=public_post_comment-text"> Comparing human-only, AI-assisted, and AI-led teams on assessing research reproducibility in quantitative social science </a> (with Abel Brodeur, David Valenta, Alexandru Marcoci, et al.). Proceedings of the National Academy of Sciences (in press).</li>
 
-<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780"> Reproducibility and robustness of economics and political science research </a> (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.). Nature (in press).</li>
-
 <li><a href="revisiting-the-link-between-political-trust-and-political-participation.pdf" target="_blank"> Revisiting the link between political trust and political participation </a> (with James Tilley and Sven Oskarsson). Journal of Politics 88(3).</li>
+
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790780"> Reproducibility and robustness of economics and political science research </a> (with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.). Nature 651(8108).</li>
 
 <li><a href="misconduct-by-voters-own-representatives-does-not-affect-voters-generalized-political-trust.pdf" target="_blank"> Misconduct by voters' own representatives does not affect voters' generalized political trust </a> (with James Tilley). British Journal of Political Science 54(4).</li>
 
