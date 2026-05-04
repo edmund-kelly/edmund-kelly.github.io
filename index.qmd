@@ -110,12 +110,11 @@ PhD student<br> Harris Manchester College<br> University of Oxford<br> edmund.ke
 
 <li><a class="cv-download" href="PersonalityTrust.pdf" target="_blank"> Personality traits and political trust</a>. R&R, British Journal of Political Science.</li>
 
-<li><a class="cv-download" href="StrategicProblems.pdf" target="_blank"> Can artificial intelligence solve strategic decision problems?</a> (with Peter Eso, Eszter Kabos, and James Tilley)</a>. Under review. </li>
+<li><a class="cv-download" href="StrategicProblems.pdf" target="_blank"> Can artificial intelligence solve strategic decision problems?</a> (with Peter Eso, Eszter Kabos, and James Tilley)</a>. R&R, PLoS One. </li>
+
+<li><a class="cv-download" href="PolarizationTrust.pdf" target="_blank"> Mass polarization and political distrust</a>. Under review.</li>
 
 <li><a class="cv-download" href="DemocracyTrust.pdf" target="_blank"> Political distrust and preferences for regime type</a>.</li>
-
-<li><a class="cv-download" href="PolarizationTrust.pdf" target="_blank"> Mass polarization and political distrust</a>.</li>
-
 
 </ul>
 :::
