@@ -592,6 +592,34 @@ a:not(.toggle-link) {
   }
 }
 
+/* ==========================================
+   SWEDEN MAP — CUSTOM SIZE
+   ========================================== */
+
+/* Desktop */
+
+.project-layout img.sweden-image {
+  display: block;
+  width: 200px !important;
+  height: 150px !important;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+}
+
+/* Mobile */
+
+@media (max-width: 576px) {
+  .project-layout img.sweden-image {
+    width: 45px !important;
+    height: 35px !important;
+  }
+}
+
+
 /* Teaching page: spacing between labels and arrows */
 
 .teaching-toggles .toggle-link {

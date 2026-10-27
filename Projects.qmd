@@ -43,8 +43,9 @@ How do we restore trust in democratic politics? It is often argued that educatio
 
 :::
 
-::: {.project-image}
-![](images/reforms.jpg){.study-image}
+<img src="images/reforms.jpg"
+     class="study-image sweden-image"
+     alt="Swedish educational reforms">
 :::
 
 :::
