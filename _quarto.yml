@@ -11,6 +11,7 @@ website:
     background: light
     foreground: dark
     pinned: true
+    container-fluid: false
 
     right:
       - text: Home
