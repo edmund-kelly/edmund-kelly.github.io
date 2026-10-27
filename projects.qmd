@@ -1,0 +1,155 @@
+
+---
+title: ""
+engine: knitr
+page-layout: full
+format:
+  html:
+    mainfont: Georgia
+    toc: false
+---
+
+::: {style="max-width: 850px; margin: 35px auto; padding: 0 20px;"}
+
+## Political trust
+
+::: {.project-entry}
+
+### Political distrust and preferences for regime type
+
+*Revise and resubmit, Journal of Politics.*
+
+<div class="project-toggles">
+
+  <a class="toggle-link"
+     data-bs-toggle="collapse"
+     href="#summary-democracy"
+     role="button"
+     aria-expanded="false"
+     aria-controls="summary-democracy">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+
+  <a class="toggle-link"
+     data-bs-toggle="collapse"
+     href="#abstract-democracy"
+     role="button"
+     aria-expanded="false"
+     aria-controls="abstract-democracy">
+    Abstract <span class="toggle-arrow"></span>
+  </a>
+
+  <a href="papers/DemocracyTrust.pdf"
+     target="_blank">PDF</a>
+
+</div>
+
+::: {#summary-democracy .collapse .project-collapse}
+::: {.project-collapse-content}
+This project examines the relationship between political distrust and citizens' preferences for different types of political regimes.
+:::
+:::
+
+::: {#abstract-democracy .collapse .project-collapse}
+::: {.project-collapse-content}
+[Insert the full abstract here.]
+:::
+:::
+
+:::
+
+::: {.project-entry}
+
+### Mass polarization and political distrust
+
+*Under review.*
+
+<div class="project-toggles">
+
+  <a class="toggle-link"
+     data-bs-toggle="collapse"
+     href="#summary-polarization"
+     role="button"
+     aria-expanded="false"
+     aria-controls="summary-polarization">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+
+  <a class="toggle-link"
+     data-bs-toggle="collapse"
+     href="#abstract-polarization"
+     role="button"
+     aria-expanded="false"
+     aria-controls="abstract-polarization">
+    Abstract <span class="toggle-arrow"></span>
+  </a>
+
+  <a href="papers/PolarizationTrust.pdf"
+     target="_blank">PDF</a>
+
+</div>
+
+::: {#summary-polarization .collapse .project-collapse}
+::: {.project-collapse-content}
+This project investigates the relationship between mass political polarization and distrust in political institutions.
+:::
+:::
+
+::: {#abstract-polarization .collapse .project-collapse}
+::: {.project-collapse-content}
+[Insert the full abstract here.]
+:::
+:::
+
+:::
+
+## Artificial intelligence and strategic decision-making
+
+::: {.project-entry}
+
+### Can artificial intelligence solve strategic decision problems?
+
+With Peter Eso, Eszter Kabos and James Tilley
+
+*Revise and resubmit, PLoS One.*
+
+<div class="project-toggles">
+
+  <a class="toggle-link"
+     data-bs-toggle="collapse"
+     href="#summary-strategic"
+     role="button"
+     aria-expanded="false"
+     aria-controls="summary-strategic">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+
+  <a class="toggle-link"
+     data-bs-toggle="collapse"
+     href="#abstract-strategic"
+     role="button"
+     aria-expanded="false"
+     aria-controls="abstract-strategic">
+    Abstract <span class="toggle-arrow"></span>
+  </a>
+
+  <a href="papers/StrategicProblems.pdf"
+     target="_blank">PDF</a>
+
+</div>
+
+::: {#summary-strategic .collapse .project-collapse}
+::: {.project-collapse-content}
+This project examines the ability of artificial intelligence to solve strategic decision problems.
+:::
+:::
+
+::: {#abstract-strategic .collapse .project-collapse}
+::: {.project-collapse-content}
+[Insert the full abstract here.]
+:::
+:::
+
+:::
+
+:::

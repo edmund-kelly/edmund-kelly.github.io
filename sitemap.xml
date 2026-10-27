@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://edmund-kelly.github.io/Working papers.html</loc>
-    <lastmod>2025-04-10T11:44:49.199Z</lastmod>
+    <loc>https://edmund-kelly.github.io/Teaching.html</loc>
+    <lastmod>2026-10-27T12:21:06.981Z</lastmod>
   </url>
   <url>
-    <loc>https://edmund-kelly.github.io/index.html</loc>
-    <lastmod>2026-10-07T15:21:11.825Z</lastmod>
+    <loc>https://edmund-kelly.github.io/Projects.html</loc>
+    <lastmod>2026-10-27T12:16:27.359Z</lastmod>
   </url>
   <url>
     <loc>https://edmund-kelly.github.io/CV.html</loc>
     <lastmod>2025-02-27T15:29:19.251Z</lastmod>
   </url>
   <url>
-    <loc>https://edmund-kelly.github.io/teaching.html</loc>
-    <lastmod>2025-02-27T14:26:54.985Z</lastmod>
+    <loc>https://edmund-kelly.github.io/index.html</loc>
+    <lastmod>2026-10-27T12:14:13.069Z</lastmod>
+  </url>
+  <url>
+    <loc>https://edmund-kelly.github.io/Publications.html</loc>
+    <lastmod>2026-10-27T11:57:14.590Z</lastmod>
   </url>
 </urlset>
