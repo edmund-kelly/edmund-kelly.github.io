@@ -640,40 +640,42 @@ a:not(.toggle-link) {
   }
 }
 
-
 /* ==========================================
-   NAVBAR CONTENT ALIGNMENT
+   NAVBAR ALIGNMENT
    ========================================== */
 
-/* Centre navbar content within page width */
+/* Match navbar width to website content */
 
-.navbar > .container,
-.navbar > .container-fluid {
+header#quarto-header .navbar .container-fluid,
+header#quarto-header .navbar .container {
   max-width: 900px !important;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20px;
-  padding-right: 20px;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
 }
 
-/* Keep name on left and links on right */
+/* Name on left */
 
-.navbar-brand {
+header#quarto-header .navbar-brand {
   margin-right: auto;
 }
 
-.navbar .navbar-nav {
+/* Navigation links on right */
+
+header#quarto-header .navbar-nav {
   margin-left: auto;
 }
 
 /* Mobile */
 
 @media (max-width: 768px) {
-  .navbar > .container,
-  .navbar > .container-fluid {
-    padding-left: 15px;
-    padding-right: 15px;
+  header#quarto-header .navbar .container-fluid,
+  header#quarto-header .navbar .container {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
   }
 }
+
 
