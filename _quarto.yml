@@ -1,16 +1,36 @@
+
 project:
   type: website
+  resources:
+    - mini-trust.js
 
 website:
   title: "Edmund Kelly"
-  navbar: false
+  navbar:
+    title: "Edmund Kelly"
+    background: light
+    foreground: dark
+    pinned: true
+
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: Publications.qmd
+      - text: Ongoing research
+        href: Projects.qmd
+      - text: Teaching
+        href: Teaching.qmd
+
+  search: false
 
 format:
   html:
     theme: cosmo
+    mainfont: Georgia
+    fontsize: 10pt
     css: styles.css
-    toc: true
-    search: false
+    toc: false
+    page-layout: full
 
 editor: visual
-

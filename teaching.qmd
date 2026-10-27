@@ -1,16 +1,314 @@
+
 ---
-title: ""
-published-title: 
+title: "Teaching"
 engine: knitr
-mainfont: serif
+page-layout: full
+format:
+  html:
+    mainfont: Georgia
+    toc: false
 ---
 
-<font size="5"> Graduate</font>
+::: {style="max-width: 850px; margin: 35px auto; padding: 0 20px;"}
 
--   Statistical Methods for the Social Sciences (lab sessions).
+## London School of Economics
 
-<font size="5"> Undergraduate </font>
+::: {.teaching-entry}
 
--   Comparative Government (tutorials).
--   Introduction to Politics (tutorials).
--   Political Analysis (lab sessions).
+### MY470 Computer Programming
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-my470" role="button"
+     aria-expanded="false" aria-controls="summary-my470">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-my470" role="button"
+     aria-expanded="false" aria-controls="topics-my470">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-my470 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+A graduate-level course on programming in Python. Seminars - Autumn Term 2026.  
+:::
+:::
+
+::: {#topics-my470 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Programming fundamentals
+- Data types and structures
+- Conditional statements and loops
+- Functions and modular programming
+- Classes and object-oriented programming
+- Data manipulation and visualisation
+- Debugging and testing
+- Algorithms
+- Git and GitHub
+:::
+:::
+
+:::
+
+::: {.teaching-entry}
+
+### MY452 Applied Regression Analysis
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-my452" role="button"
+     aria-expanded="false" aria-controls="summary-my452">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-my452" role="button"
+     aria-expanded="false" aria-controls="topics-my452">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-my452 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+A graduate-level course focused on the practical implementation and interpretation of regression models, implemented in R. Seminars - Autumn Term 2026. 
+:::
+:::
+
+::: {#topics-my452 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Bivariate and multivariate linear regression
+- Polynomials, categorical variables, and interactions
+- Logistic regression 
+- Count models 
+- Panel data
+- Clustering and multilevel regression
+- Causal inference
+:::
+:::
+
+:::
+
+::: {.teaching-entry}
+
+### MY481 Generative AI for Social Science Research
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-my481" role="button"
+     aria-expanded="false" aria-controls="summary-my481">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-my481" role="button"
+     aria-expanded="false" aria-controls="topics-my481">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-my481 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+A graduate-level course on the applications of large-language models to social science research. Seminars - Winter Term 2027. 
+:::
+:::
+
+::: {#topics-my481 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Introduction to large language models
+- Prompting and testing
+- Evaluation and reliability
+- Multi-step pipelines
+- Retrieval and grounding
+- Agentic systems
+- Interpretation and measurement
+- Generation and simulation
+:::
+:::
+
+:::
+
+## University of Oxford
+
+::: {.teaching-entry}
+
+### Statistical Methods for the Social Sciences
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-stats" role="button"
+     aria-expanded="false" aria-controls="summary-stats">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-stats" role="button"
+     aria-expanded="false" aria-controls="topics-stats">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-stats .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+A graduate-level course introducing students to the fundamentals of statistical analysis in R. Seminars - Michaelmas Term 2024 & Michaelmas Term 2025. 
+:::
+:::
+
+::: {#topics-stats .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Causality
+- Measurement
+- Probability
+- Hypothesis testing 
+- Linear regression
+- Visualisation
+- Interactions and polynomials
+:::
+:::
+
+### Comparative Government
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-201" role="button"
+     aria-expanded="false" aria-controls="summary-201">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-201" role="button"
+     aria-expanded="false" aria-controls="topics-201">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-201 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+An intermediate undergraduate course about comparative political institutions. Tutorials - Hilary Term 2025. 
+:::
+:::
+
+::: {#topics-201 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Democratisation
+- Autocracies and hybrid regimes
+- Colonialism
+- Constitutions
+- Legislatures, executives, judiciaries
+- Electoral and party systems
+- Clientelism
+- State formation
+- Interest groups 
+:::
+:::
+
+:::
+
+::: {.teaching-entry}
+
+### Political Sociology
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-220" role="button"
+     aria-expanded="false" aria-controls="summary-220">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-220" role="button"
+     aria-expanded="false" aria-controls="topics-220">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-220 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+An intermediate undergraduate course about comparative political behaviour. Tutorials - Hilary Term 2026.  
+:::
+:::
+
+::: {#topics-220 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Political culture and social capital
+- Class, education, and inequality
+- Attitudes toward minorities
+- The populist right
+- Gender
+- Religion
+- Value change
+- Social movements and protest
+- Electoral turnout
+- Attitudes toward welfare
+- Media
+- Revolutions
+:::
+:::
+
+:::
+
+::: {.teaching-entry}
+
+### Political Analysis 
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-analysis" role="button"
+     aria-expanded="false" aria-controls="summary-analysis">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-analysis" role="button"
+     aria-expanded="false" aria-controls="topics-analysis">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-analysis .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+An introductory undergraduate course teaching students the fundamentals of statistical analysis in R. Seminars - Hilary Term 2025 and Hilary Term 2026.  
+:::
+:::
+
+::: {#topics-analysis .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Introduction to R
+- Data wrangling
+- Linear regression
+- Visualisation 
+:::
+:::
+
+### Introduction to Politics
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-intro" role="button"
+     aria-expanded="false" aria-controls="summary-intro">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-intro" role="button"
+     aria-expanded="false" aria-controls="topics-intro">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-intro .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+An introductory undergraduate course that teaches students the fundamentals of comparative political science. Tutorials - Hilary Term 2025 and Trinity Term 2025. 
+:::
+:::
+
+::: {#topics-intro .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Democracy and authoritarianism
+- Types of democracies
+- State capacity
+- Social movements and revolutions
+- Legislatures and executives
+- War and peace
+- Party systems and voting behaviour
+- Populism and the far right 
+:::
+:::
+
+:::
+
+:::
