@@ -684,26 +684,55 @@ header#quarto-header .navbar .container {
   padding-right: 20px !important;
 }
 
-/* Name on left */
 
-header#quarto-header .navbar-brand {
-  margin-right: auto;
+/
+/* ==========================================
+   HOMEPAGE HEADING
+   ========================================== */
+
+.homepage-heading {
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding-top: 0;
+  text-align: left;
 }
 
-/* Navigation links on right */
+.homepage-heading-title {
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #252525;
+  margin: 0 0 10px;
+}
 
-header#quarto-header .navbar-nav {
-  margin-left: auto;
+/* Green underline */
+
+.homepage-heading-line {
+  width: 55px;
+  height: 2px;
+  background-color: #2c7a2c;
 }
 
 /* Mobile */
 
-@media (max-width: 768px) {
-  header#quarto-header .navbar .container-fluid,
-  header#quarto-header .navbar .container {
-    padding-left: 15px !important;
-    padding-right: 15px !important;
+@media (max-width: 576px) {
+  .homepage-heading-title {
+    font-size: 26px;
+  }
+
+  .homepage-heading {
+    margin-bottom: 15px;
   }
 }
 
+body.page-index .navbar-brand {
+  visibility: hidden;
+}
 
+/* Hide navbar name on homepage only */
+
+body.homepage .navbar-brand {
+  visibility: hidden;
+}
