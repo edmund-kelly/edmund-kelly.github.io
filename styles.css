@@ -741,3 +741,18 @@ body.homepage .navbar-brand {
   position: relative;
   top: -15px;
 }
+
+/* Homepage: move right-hand text upwards */
+
+body .homepage-right {
+  position: relative !important;
+  top: -20px !important;
+}
+
+/* Preserve normal positioning on mobile */
+
+@media (max-width: 576px) {
+  body .homepage-right {
+    top: 0 !important;
+  }
+}
