@@ -639,3 +639,41 @@ a:not(.toggle-link) {
     margin-bottom: 20px;
   }
 }
+
+
+/* ==========================================
+   NAVBAR CONTENT ALIGNMENT
+   ========================================== */
+
+/* Centre navbar content within page width */
+
+.navbar > .container,
+.navbar > .container-fluid {
+  max-width: 900px !important;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Keep name on left and links on right */
+
+.navbar-brand {
+  margin-right: auto;
+}
+
+.navbar .navbar-nav {
+  margin-left: auto;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .navbar > .container,
+  .navbar > .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+

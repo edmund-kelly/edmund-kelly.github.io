@@ -63,6 +63,7 @@ ul {
 
 ::::::: grid
 :::: {.g-col-12 .g-col-sm-4}
+
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
