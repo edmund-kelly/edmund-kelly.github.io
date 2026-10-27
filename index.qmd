@@ -1,5 +1,6 @@
 ---
 title: ""
+body-classes: homepage
 main-photo: Profile.png
 mainfont: serif  
 fontsize: 10pt
@@ -59,7 +60,14 @@ ul {
   </style>
 ```
 
-<br> <br>
+:::::::: {style="max-width: 900px; margin: 0 auto;"}
+
+<div class="homepage-heading">
+  <div class="homepage-heading-title">Edmund Kelly</div>
+  <div class="homepage-heading-line"></div>
+</div>
+
+<br> 
 
 ::::::: grid
 :::: {.g-col-12 .g-col-sm-4}
