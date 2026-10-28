@@ -242,6 +242,8 @@ to solve undergraduate-level strategic decision problems.
 
 :::
 
+:::
+
 ::: {.project-entry}
 ::: {.project-layout}
 
@@ -288,7 +290,5 @@ the value of structured mass reproducibility initiatives.
 
 ::: {.project-image}
 ![](images/psychological.jpg){.study-image}
-
-:::
 
 :::
