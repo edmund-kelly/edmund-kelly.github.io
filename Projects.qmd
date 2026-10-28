@@ -68,7 +68,7 @@ With Oskar Pettersson
 
 ::: {#summary-formative .collapse .project-collapse}
 ::: {.project-collapse-content}
-Using large-scale family and registry data from the United States and Sweden, we show how random within-family variation in predispositions toward personality traits interact with formative environments to affect political attitudes. 
+Using large-scale family and registry data from the United States and Sweden, we show how random within-family variation in predispositions toward personality traits interacts with formative environments to affect political attitudes. 
 :::
 :::
 
