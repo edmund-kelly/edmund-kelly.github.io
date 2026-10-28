@@ -50,6 +50,43 @@ How do we restore trust in democratic politics? It is often argued that educatio
 
 :::
 
+::: {.project-entry}
+::: {.project-layout}
+
+::: {.project-text}
+
+### Inherited traits, formative environments, and political trust
+
+With Oskar Pettersson
+
+*Work in progress*
+
+::: {.publication-toggles}
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-formative" role="button" aria-expanded="false" aria-controls="summary-formative">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-formative" role="button" aria-expanded="false" aria-controls="abstract-formative">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
+:::
+
+::: {#summary-formative .collapse .project-collapse}
+::: {.project-collapse-content}
+Using large-scale family and registry data from the United States and Sweden, we show how random within-family variation in predispositions toward personality traits interact with formative environments to affect political attitudes. 
+:::
+:::
+
+::: {#abstract-formative .collapse .project-collapse}
+::: {.project-collapse-content}
+How are political attitudes formed? It has long been argued that both inherited traits and formative environments are closely related to our political beliefs. However, these relationships are difficult to demonstrate because there are many unmeasured confounders, and because the effects of disposition and early environment are likely to interact with one another. We remedy both issues using large-scale family, genetic, and registry data from the United States and Sweden. We find that random within-family variation in genetic predispositions toward neuroticism, risk tolerance, and cognitive performance are causally related to political trust later in life. Additionally, we show that the effect of cognitive performance is moderated by formative environments. Those with higher cognitive performance are more likely to `rationally' evaluate the trustworthiness of political institutions in relation to their formative environments. We conclude that innate predispositions causally affect political attitudes but that their effects may be moderated by formative environments. 
+:::
+:::
+
+:::
+
+::: {.project-image}
+![](images/formative.png){.study-image}
+
+:::
+:::
+:::
+
 ## Opinion dynamics
 
 ::: {.project-entry}
