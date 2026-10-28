@@ -87,6 +87,41 @@ How are political attitudes formed? It has long been argued that both inherited 
 :::
 :::
 
+::: {.project-entry}
+::: {.project-layout}
+
+::: {.project-text}
+
+### Health and political disengagement: Evidence from longitudinal and family data
+
+*Work in progress*
+
+::: {.publication-toggles}
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-health" role="button" aria-expanded="false" aria-controls="summary-health">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-health" role="button" aria-expanded="false" aria-controls="abstract-health">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
+:::
+
+::: {#summary-health .collapse .project-collapse}
+::: {.project-collapse-content}
+Using longitudinal and family data from the United States and the United Kingdom, I test whether the relationship between (formative) ill health and political disengagement may be causal in origin.
+:::
+:::
+
+::: {#abstract-health .collapse .project-collapse}
+::: {.project-collapse-content}
+It has been argued that experiencing ill health, whether physical or psychological in nature, increases anti-system political attitudes, and that this may help explain the connection between ill health and political disengagement. However, existing tests of these hypotheses rarely account for potential confounders rooted in early life experiences and heritable traits. Using longitudinal and family data from the United States and the United Kingdom, I test whether the associations between health and political attitudes are likely to be causal in origin, whether they are consistent across forms of ill health, and whether experiencing ill health in adolescence matters similarly to experiences in adulthood. Additionally, I test whether these associations are moderated by experiencing healthcare-related interactions with state institutions.  
+:::
+:::
+
+:::
+
+::: {.project-image}
+![](images/health.jpg){.study-image}
+
+:::
+:::
+:::
+
 ## Opinion dynamics
 
 ::: {.project-entry}
