@@ -32,7 +32,8 @@ format:
 
 ::: {#summary-my470 .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-A graduate-level course on programming in Python. Seminars - Autumn Term 2026.  
+A graduate-level course on programming in Python. \
+Seminars - Autumn Term 2026.  
 :::
 :::
 
@@ -71,7 +72,8 @@ A graduate-level course on programming in Python. Seminars - Autumn Term 2026.
 
 ::: {#summary-my452 .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-A graduate-level course focused on the practical implementation and interpretation of regression models, implemented in R. Seminars - Autumn Term 2026. 
+A graduate-level course focused on the practical implementation and interpretation of regression models, implemented in R. \
+Seminars - Autumn Term 2026. 
 :::
 :::
 
@@ -108,7 +110,8 @@ A graduate-level course focused on the practical implementation and interpretati
 
 ::: {#summary-my481 .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-A graduate-level course on the applications of large-language models to social science research. Seminars - Winter Term 2027. 
+A graduate-level course on the applications of large-language models to social science research. \
+Seminars - Winter Term 2027. 
 :::
 :::
 
@@ -148,7 +151,8 @@ A graduate-level course on the applications of large-language models to social s
 
 ::: {#summary-stats .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-A graduate-level course introducing students to the fundamentals of statistical analysis in R. Seminars - Michaelmas Term 2024 & Michaelmas Term 2025. 
+A graduate-level course introducing students to the fundamentals of statistical analysis in R. \
+Seminars - Michaelmas Term 2024 & Michaelmas Term 2025. 
 :::
 :::
 
@@ -181,7 +185,8 @@ A graduate-level course introducing students to the fundamentals of statistical 
 
 ::: {#summary-201 .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-An intermediate undergraduate course about comparative political institutions. Tutorials - Hilary Term 2025. 
+An intermediate undergraduate course about comparative political institutions. \
+Tutorials - Hilary Term 2025. 
 :::
 :::
 
@@ -220,7 +225,8 @@ An intermediate undergraduate course about comparative political institutions. T
 
 ::: {#summary-220 .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-An intermediate undergraduate course about comparative political behaviour. Tutorials - Hilary Term 2026.  
+An intermediate undergraduate course about comparative political behaviour. \
+Tutorials - Hilary Term 2026.  
 :::
 :::
 
@@ -262,7 +268,8 @@ An intermediate undergraduate course about comparative political behaviour. Tuto
 
 ::: {#summary-analysis .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-An introductory undergraduate course teaching students the fundamentals of statistical analysis in R. Seminars - Hilary Term 2025 and Hilary Term 2026.  
+An introductory undergraduate course teaching students the fundamentals of statistical analysis in R. \
+Seminars - Hilary Term 2025 and Hilary Term 2026.  
 :::
 :::
 
@@ -292,7 +299,8 @@ An introductory undergraduate course teaching students the fundamentals of stati
 
 ::: {#summary-intro .collapse .teaching-collapse}
 ::: {.teaching-collapse-content}
-An introductory undergraduate course that teaches students the fundamentals of comparative political science. Tutorials - Hilary Term 2025 and Trinity Term 2025. 
+An introductory undergraduate course that teaches students the fundamentals of comparative political science. \
+Tutorials - Hilary Term 2025 and Trinity Term 2025. 
 :::
 :::
 
