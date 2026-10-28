@@ -614,8 +614,8 @@ a:not(.toggle-link) {
 
 @media (max-width: 576px) {
   .project-layout img.sweden-image {
-    width: 45px !important;
-    height: 35px !important;
+    width: 90px !important;
+    height: 70px !important;
   }
 }
 
@@ -755,4 +755,63 @@ body .homepage-right {
   body .homepage-right {
     top: 0 !important;
   }
+}
+
+
+/* ==========================================
+   RESPONSIVE HOMEPAGE ANIMATION
+   ========================================== */
+
+/* Desktop: show animation beneath personal details */
+
+.animation-desktop {
+  display: block;
+}
+
+.animation-mobile {
+  display: none;
+}
+
+/* Mobile: move animation below recent publications */
+
+@media (max-width: 576px) {
+
+  .animation-desktop {
+    display: none;
+  }
+
+  .animation-mobile {
+    display: block;
+    margin: 25px auto 15px;
+  }
+
+}
+
+/* ==========================================
+   HOMEPAGE ANIMATION — RESPONSIVE VISIBILITY
+   ========================================== */
+
+/* Desktop: show only the left-column animation */
+
+.mini-research-animation.animation-desktop {
+  display: block !important;
+}
+
+.mini-research-animation.animation-mobile {
+  display: none !important;
+}
+
+/* Mobile: show only the bottom animation */
+
+@media (max-width: 575.98px) {
+
+  .mini-research-animation.animation-desktop {
+    display: none !important;
+  }
+
+  .mini-research-animation.animation-mobile {
+    display: block !important;
+    margin: 25px auto 15px;
+  }
+
 }
