@@ -121,11 +121,11 @@ I use quantitative and computational approaches to answer these questions, inclu
 
 <ul>
 
-<li>[Edmund Kelly]{.underline} & Qinya Feng. <a class="cv-download" href="EducTrust.pdf" target="_blank"> Educational attainment and political trust </a>. *American Journal of Political Science* (forthcoming).</li>
+<li>[Edmund Kelly]{.underline} & Qinya Feng. <a class="cv-download" href="EducTrust.pdf" target="_blank"> Educational attainment and political trust</a>. *American Journal of Political Science* (forthcoming).</li>
 
 <li>[Edmund Kelly]{.underline}. <a class="cv-download" href="PersonalityTrust.pdf" target="_blank"> Personality traits and political trust</a>. *British Journal of Political Science* (forthcoming).</li>
 
-<li>[Edmund Kelly]{.underline}, James Tilley & Sven Oskarsson. <a href="https://www.journals.uchicago.edu/doi/10.1086/736338"> Revisiting the link between political trust and political participation </a>. *Journal of Politics* 88(3), 1048-1065 (2026).</li>
+<li>[Edmund Kelly]{.underline}, James Tilley & Sven Oskarsson. <a href="https://www.journals.uchicago.edu/doi/10.1086/736338"> Revisiting the link between political trust and political participation</a>. *Journal of Politics* 88(3), 1048-1065 (2026).</li>
 
 </ul>
 
