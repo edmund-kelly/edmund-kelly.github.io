@@ -97,8 +97,6 @@ Postdoctoral Fellow<br> Department of Methodology<br> London School of Economics
 
 :::: {.g-col-12 .g-col-sm-7 .homepage-right}
 ::: {.g-col-12 .g-col-sm-7 .justified style="text-align: justify;" .homepage-right}
-<p>
-
 Thank you for visiting!
 
 I am a quantitative social scientist based in the <a href="https://www.lse.ac.uk/people/edmund-kelly">Department of Methodology</a> at the London School of Economics. I work on comparative political behaviour, public opinion, and political sociology, with a particular interest in political and social trust.  
