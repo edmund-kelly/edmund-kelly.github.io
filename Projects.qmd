@@ -37,7 +37,7 @@ Using a staggered compulsory educational reform in Sweden, we show that reforms 
 
 ::: {#abstract-reforms .collapse .project-collapse}
 ::: {.project-collapse-content}
-How do we restore trust in democratic politics? It is often argued that education is crucial to alleviating political distrust, but causal evidence is lacking. We address this challenge by analysing a regionally-staggered educational reform in Sweden that lengthened compulsory schooling, reduced social segregation by removing ability-based tracks, and bolstered civic education. Using a staggered difference-in-difference design, we find strong evidence that the reform boosted political trust, especially among those from less privileged backgrounds. Subsequent analyses using a comparative dataset of compulsory schooling reforms suggest that the operative mechanisms are the removal of ability-based tracking and the increased democratic content of the curriculum. We conclude that well-designed educational reforms can alleviate the crisis of trust facing democracies.
+How do we restore trust in democratic politics? It is often argued that education is crucial to alleviating political distrust, but causal evidence is lacking. We address this challenge by analysing a regionally-staggered educational reform in Sweden that lengthened compulsory schooling, reduced social segregation by removing ability-based tracks, and bolstered civic education. Using a staggered difference-in-differences design, we find strong evidence that the reform boosted political trust, especially among those from less privileged backgrounds. Subsequent analyses using a comparative dataset of compulsory schooling reforms suggest that the operative mechanisms are the removal of ability-based tracking and the increased democratic content of the curriculum. We conclude that well-designed educational reforms can alleviate the crisis of trust facing democracies.
 :::
 :::
 
@@ -362,5 +362,51 @@ the value of structured mass reproducibility initiatives.
 
 ::: {.project-image}
 ![](images/psychological.jpg){.study-image}
+
+:::
+:::
+:::
+
+
+::: {.project-entry}
+::: {.project-layout}
+
+::: {.project-text}
+
+### Generative AI boosts productivity across the expertise ladder
+
+With Juan Aparicio, David Valenta, Derek Mikola, et al.
+
+*Work in progress*
+
+::: {.publication-toggles}
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-productivity" role="button" aria-expanded="false" aria-controls="summary-productivity">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-productivity" role="button" aria-expanded="false" aria-controls="abstract-productivity">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
+:::
+
+::: {#summary-productivity .collapse .project-collapse}
+::: {.project-collapse-content}
+A large-scale collaborative project that shows that randomly assigning AI-assistance to researchers substantially improves productivity regardless of prior experience. 
+:::
+:::
+
+::: {#abstract-productivity .collapse .project-collapse}
+::: {.project-collapse-content}
+Generative AI is improving rapidly, but evidence on whether these advances translate into broad productivity gains
+across skill levels remains limited. We studied access to generative AI among 276 researchers, ranging from undergraduates to
+senior academics, during a seven-hour research assignment spanning economics, political science, psychology, and management.
+Participants reproduced published results, searched for errors, proposed additional analyses, and wrote referee reports. AI
+assistance increased successful reproduction, the discovery of verified errors, the production of expert-approved robustness
+checks, and the quality of referee reports. The gains span computational and written work. The results contrast sharply with our
+2024 experiment, in which AI-assisted teams performed similarly to human-only teams on most outcomes. Generative AI
+assistance now appears capable of raising productivity across much of the expertise ladder and across multiple dimensions of
+scientific work.
+:::
+:::
+
+:::
+
+::: {.project-image}
+![](images/productivity.png){.study-image}
 
 :::

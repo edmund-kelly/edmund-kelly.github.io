@@ -55,6 +55,43 @@ Seminars - Autumn Term 2026.
 
 ::: {.teaching-entry}
 
+### MY456 Survey Methodology
+
+<div class="teaching-toggles">
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#summary-my456" role="button"
+     aria-expanded="false" aria-controls="summary-my456">
+    Summary <span class="toggle-arrow"></span>
+  </a>
+  <a class="toggle-link" data-bs-toggle="collapse"
+     href="#topics-my456" role="button"
+     aria-expanded="false" aria-controls="topics-my456">
+    Topics <span class="toggle-arrow"></span>
+  </a>
+</div>
+
+::: {#summary-my456 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+A graduate-level course on the design and analysis of population surveys, including AI integration, using Qualtrics and R. \
+Seminars - Winter Term 2027. 
+:::
+:::
+
+::: {#topics-my456 .collapse .teaching-collapse}
+::: {.teaching-collapse-content}
+- Survey estimation and inference
+- Sampling design and theory
+- Interviewing and question design
+- Longitudinal and comparative surveys
+- Nonresponse error and weighting
+- Complex surveys and AI integration 
+:::
+:::
+
+:::
+
+::: {.teaching-entry}
+
 ### MY452 Applied Regression Analysis
 
 <div class="teaching-toggles">
@@ -86,45 +123,6 @@ Seminars - Autumn Term 2026.
 - Panel data
 - Clustering and multilevel regression
 - Causal inference
-:::
-:::
-
-:::
-
-::: {.teaching-entry}
-
-### MY481 Generative AI for Social Science Research
-
-<div class="teaching-toggles">
-  <a class="toggle-link" data-bs-toggle="collapse"
-     href="#summary-my481" role="button"
-     aria-expanded="false" aria-controls="summary-my481">
-    Summary <span class="toggle-arrow"></span>
-  </a>
-  <a class="toggle-link" data-bs-toggle="collapse"
-     href="#topics-my481" role="button"
-     aria-expanded="false" aria-controls="topics-my481">
-    Topics <span class="toggle-arrow"></span>
-  </a>
-</div>
-
-::: {#summary-my481 .collapse .teaching-collapse}
-::: {.teaching-collapse-content}
-A graduate-level course on the applications of large-language models to social science research. \
-Seminars - Winter Term 2027. 
-:::
-:::
-
-::: {#topics-my481 .collapse .teaching-collapse}
-::: {.teaching-collapse-content}
-- Introduction to large language models
-- Prompting and testing
-- Evaluation and reliability
-- Multi-step pipelines
-- Retrieval and grounding
-- Agentic systems
-- Interpretation and measurement
-- Generation and simulation
 :::
 :::
 

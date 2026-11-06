@@ -1,7 +1,7 @@
 ---
 title: ""
 body-classes: homepage
-main-photo: Profile.png
+main-photo: Profile_LSE.jpg
 mainfont: serif  
 fontsize: 10pt
 page-layout: full
