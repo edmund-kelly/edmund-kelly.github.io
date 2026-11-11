@@ -11,117 +11,6 @@ format:
 
 ::: {style="max-width: 850px; margin: 35px auto; padding: 0 20px;"}
 
-## Attitude formation
-
-::: {.project-entry}
-::: {.project-layout}
-
-::: {.project-text}
-
-### Educational reforms and political trust
-
-With Qinya Feng
-
-*APSA 2026*
-
-::: {.publication-toggles}
-<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-reforms" role="button" aria-expanded="false" aria-controls="summary-reforms">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
-<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-reforms" role="button" aria-expanded="false" aria-controls="abstract-reforms">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
-:::
-
-::: {#summary-reforms .collapse .project-collapse}
-::: {.project-collapse-content}
-Using a staggered compulsory educational reform in Sweden, we show that reforms that reduce ability-based tracking and that bolster civic education can durably increase political trust. 
-:::
-:::
-
-::: {#abstract-reforms .collapse .project-collapse}
-::: {.project-collapse-content}
-How do we restore trust in democratic politics? It is often argued that education is crucial to alleviating political distrust, but causal evidence is lacking. We address this challenge by analysing a regionally-staggered educational reform in Sweden that lengthened compulsory schooling, reduced social segregation by removing ability-based tracks, and bolstered civic education. Using a staggered difference-in-differences design, we find strong evidence that the reform boosted political trust, especially among those from less privileged backgrounds. Subsequent analyses using a comparative dataset of compulsory schooling reforms suggest that the operative mechanisms are the removal of ability-based tracking and the increased democratic content of the curriculum. We conclude that well-designed educational reforms can alleviate the crisis of trust facing democracies.
-:::
-:::
-
-:::
-
-<img src="images/reforms.jpg"
-     class="study-image sweden-image"
-     alt="Swedish educational reforms">
-:::
-
-:::
-
-::: {.project-entry}
-::: {.project-layout}
-
-::: {.project-text}
-
-### Inherited traits, formative environments, and political trust
-
-With Oskar Pettersson
-
-*Work in progress*
-
-::: {.publication-toggles}
-<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-formative" role="button" aria-expanded="false" aria-controls="summary-formative">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
-<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-formative" role="button" aria-expanded="false" aria-controls="abstract-formative">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
-:::
-
-::: {#summary-formative .collapse .project-collapse}
-::: {.project-collapse-content}
-Using large-scale family and registry data from the United States and Sweden, we show how random within-family variation in predispositions toward personality traits interacts with formative environments to affect political attitudes. 
-:::
-:::
-
-::: {#abstract-formative .collapse .project-collapse}
-::: {.project-collapse-content}
-How are political attitudes formed? It has long been argued that both inherited traits and formative environments are closely related to our political beliefs. However, these relationships are difficult to demonstrate because there are many unmeasured confounders, and because the effects of disposition and early environment are likely to interact with one another. We remedy both issues using large-scale family, genetic, and registry data from the United States and Sweden. We find that random within-family variation in genetic predispositions toward neuroticism, risk tolerance, and cognitive performance are causally related to political trust later in life. Additionally, we show that the effect of cognitive performance is moderated by formative environments. Those with higher cognitive performance are more likely to `rationally' evaluate the trustworthiness of political institutions in relation to their formative environments. We conclude that innate predispositions causally affect political attitudes but that their effects may be moderated by formative environments. 
-:::
-:::
-
-:::
-
-::: {.project-image}
-![](images/formative.png){.study-image}
-
-:::
-:::
-:::
-
-::: {.project-entry}
-::: {.project-layout}
-
-::: {.project-text}
-
-### Health and political disengagement: Evidence from longitudinal and family data
-
-*Work in progress*
-
-::: {.publication-toggles}
-<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-health" role="button" aria-expanded="false" aria-controls="summary-health">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
-<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-health" role="button" aria-expanded="false" aria-controls="abstract-health">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
-:::
-
-::: {#summary-health .collapse .project-collapse}
-::: {.project-collapse-content}
-Using longitudinal and family data from the United States and the United Kingdom, I test whether the relationship between (formative) ill health and political disengagement may be causal in origin.
-:::
-:::
-
-::: {#abstract-health .collapse .project-collapse}
-::: {.project-collapse-content}
-It has been argued that experiencing ill health, whether physical or psychological in nature, increases anti-system political attitudes, and that this may help explain the connection between ill health and political disengagement. However, existing tests of these hypotheses rarely account for potential confounders rooted in early life experiences and heritable traits. Using longitudinal and family data from the United States and the United Kingdom, I test whether the associations between health and political attitudes are likely to be causal in origin, whether they are consistent across forms of ill health, and whether experiencing ill health in adolescence matters similarly to experiences in adulthood. Additionally, I test whether these associations are moderated by experiencing healthcare-related interactions with state institutions.  
-:::
-:::
-
-:::
-
-::: {.project-image}
-![](images/health.jpg){.study-image}
-
-:::
-:::
-:::
-
 ## Opinion dynamics
 
 ::: {.project-entry}
@@ -264,6 +153,117 @@ polarisation is likely to cause political distrust.
 ![](images/polarization.jpg){.study-image}
 :::
 
+:::
+:::
+
+## Attitude formation
+
+::: {.project-entry}
+::: {.project-layout}
+
+::: {.project-text}
+
+### Educational reforms and political trust
+
+With Qinya Feng
+
+*APSA 2026*
+
+::: {.publication-toggles}
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-reforms" role="button" aria-expanded="false" aria-controls="summary-reforms">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-reforms" role="button" aria-expanded="false" aria-controls="abstract-reforms">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
+:::
+
+::: {#summary-reforms .collapse .project-collapse}
+::: {.project-collapse-content}
+Using a staggered compulsory educational reform in Sweden, we show that reforms that reduce ability-based tracking and that bolster civic education can durably increase political trust. 
+:::
+:::
+
+::: {#abstract-reforms .collapse .project-collapse}
+::: {.project-collapse-content}
+How do we restore trust in democratic politics? It is often argued that education is crucial to alleviating political distrust, but causal evidence is lacking. We address this challenge by analysing a regionally-staggered educational reform in Sweden that lengthened compulsory schooling, reduced social segregation by removing ability-based tracks, and bolstered civic education. Using a staggered difference-in-differences design, we find strong evidence that the reform boosted political trust, especially among those from less privileged backgrounds. Subsequent analyses using a comparative dataset of compulsory schooling reforms suggest that the operative mechanisms are the removal of ability-based tracking and the increased democratic content of the curriculum. We conclude that well-designed educational reforms can alleviate the crisis of trust facing democracies.
+:::
+:::
+
+:::
+
+<img src="images/reforms.jpg"
+     class="study-image sweden-image"
+     alt="Swedish educational reforms">
+:::
+
+:::
+
+::: {.project-entry}
+::: {.project-layout}
+
+::: {.project-text}
+
+### Inherited traits, formative environments, and political trust
+
+With Oskar Pettersson
+
+*Work in progress*
+
+::: {.publication-toggles}
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-formative" role="button" aria-expanded="false" aria-controls="summary-formative">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-formative" role="button" aria-expanded="false" aria-controls="abstract-formative">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
+:::
+
+::: {#summary-formative .collapse .project-collapse}
+::: {.project-collapse-content}
+Using large-scale family and registry data from the United States and Sweden, we show how random within-family variation in predispositions toward personality traits interacts with formative environments to affect political attitudes. 
+:::
+:::
+
+::: {#abstract-formative .collapse .project-collapse}
+::: {.project-collapse-content}
+How are political attitudes formed? It has long been argued that both inherited traits and formative environments are closely related to our political beliefs. However, these relationships are difficult to demonstrate because there are many unmeasured confounders, and because the effects of disposition and early environment are likely to interact with one another. We remedy both issues using large-scale family, genetic, and registry data from the United States and Sweden. We find that random within-family variation in genetic predispositions toward neuroticism, risk tolerance, and cognitive performance are causally related to political trust later in life. Additionally, we show that the effect of cognitive performance is moderated by formative environments. Those with higher cognitive performance are more likely to `rationally' evaluate the trustworthiness of political institutions in relation to their formative environments. We conclude that innate predispositions causally affect political attitudes but that their effects may be moderated by formative environments. 
+:::
+:::
+
+:::
+
+::: {.project-image}
+![](images/formative.png){.study-image}
+
+:::
+:::
+:::
+
+::: {.project-entry}
+::: {.project-layout}
+
+::: {.project-text}
+
+### Health and political disengagement: Evidence from longitudinal and family data
+
+*Work in progress*
+
+::: {.publication-toggles}
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-health" role="button" aria-expanded="false" aria-controls="summary-health">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
+<a class="toggle-link collapsed" data-bs-toggle="collapse" href="#abstract-health" role="button" aria-expanded="false" aria-controls="abstract-health">Abstract<span class="toggle-arrow" aria-hidden="true"></span></a>
+:::
+
+::: {#summary-health .collapse .project-collapse}
+::: {.project-collapse-content}
+Using longitudinal and family data from the United States and the United Kingdom, I test whether the relationship between (formative) ill health and political disengagement may be causal in origin.
+:::
+:::
+
+::: {#abstract-health .collapse .project-collapse}
+::: {.project-collapse-content}
+It has been argued that experiencing ill health, whether physical or psychological in nature, increases anti-system political attitudes, and that this may help explain the connection between ill health and political disengagement. However, existing tests of these hypotheses rarely account for potential confounders rooted in early life experiences and heritable traits. Using longitudinal and family data from the United States and the United Kingdom, I test whether the associations between health and political attitudes are likely to be causal in origin, whether they are consistent across forms of ill health, and whether experiencing ill health in adolescence matters similarly to experiences in adulthood. Additionally, I test whether these associations are moderated by experiencing healthcare-related interactions with state institutions.  
+:::
+:::
+
+:::
+
+::: {.project-image}
+![](images/health.jpg){.study-image}
+
+:::
 :::
 :::
 
