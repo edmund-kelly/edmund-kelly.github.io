@@ -113,7 +113,7 @@ democracy may be more substantial than previously thought.
 
 ### Mass polarization and political distrust
 
-*Under review*
+*Working paper*
 
 ::: {.publication-toggles}
 <a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-polarization" role="button" aria-expanded="false" aria-controls="summary-polarization">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
@@ -377,7 +377,7 @@ the value of structured mass reproducibility initiatives.
 
 With Juan Aparicio, David Valenta, Derek Mikola, et al.
 
-*Work in progress*
+*Under review*
 
 ::: {.publication-toggles}
 <a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-productivity" role="button" aria-expanded="false" aria-controls="summary-productivity">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
