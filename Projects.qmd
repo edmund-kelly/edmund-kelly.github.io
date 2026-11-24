@@ -68,7 +68,7 @@ trust.
 
 ### Political distrust and preferences for regime type
 
-*Revise and resubmit, Journal of Politics*
+*Revised and resubmitted, Journal of Politics*
 
 ::: {.publication-toggles}
 <a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-democracy" role="button" aria-expanded="false" aria-controls="summary-democracy">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
@@ -113,7 +113,7 @@ democracy may be more substantial than previously thought.
 
 ### Mass polarization and political distrust
 
-*Working paper*
+*Under review*
 
 ::: {.publication-toggles}
 <a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-polarization" role="button" aria-expanded="false" aria-controls="summary-polarization">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
@@ -167,7 +167,7 @@ polarisation is likely to cause political distrust.
 
 With Qinya Feng
 
-*APSA 2026*
+*Working paper*
 
 ::: {.publication-toggles}
 <a class="toggle-link collapsed" data-bs-toggle="collapse" href="#summary-reforms" role="button" aria-expanded="false" aria-controls="summary-reforms">Summary<span class="toggle-arrow" aria-hidden="true"></span></a>
