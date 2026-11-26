@@ -107,7 +107,7 @@ My research is organised around two broad sets of questions:
 
 <li> [Attitude formation:]{.underline} How do early-life characteristics and experiences shape political attitudes, and how can experiences with state institutions change them? 
 
-<li> [Opinion dynamics:]{.underline} How can we measure latent public attitudes comparably across populations and over time? How and why do these attitudes change, and what are the political and social consequences of these changes? 
+<li> [Opinion dynamics \& consequences:]{.underline} How can we measure latent public attitudes comparably across populations and over time? How and why do these attitudes change, and what are the political and social consequences of these changes? 
 
 </ul>
 
